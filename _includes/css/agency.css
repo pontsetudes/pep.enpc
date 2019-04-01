@@ -663,12 +663,24 @@ section h3.section-subheading {
 }
 
 aside.clients img {
-    margin: 50px auto;
+    margin-bottom: -20px;
+}
+
+.inner-partners-div {
+    margin: 5px auto;
+}
+
+.inner-partners-div > a {
+    display: table-cell;
+    vertical-align: middle;
 }
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+    ),url('{{ site.baseurl }}/img/equipe.jpeg');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -734,6 +746,7 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: rgba(247, 247, 247, 1);
 }
 
 footer span.copyright {
@@ -876,9 +889,24 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-
 .important-figure {
     color: #{{ site.data.template.color.primary }};
     font-size: 2em;
     font-weight: bold;
+}
+
+.slide {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.partners-container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 10px;
+}
+
+.clients-container {
+    margin: 0 auto;
+    max-width: 900px;
 }
