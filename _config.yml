@@ -21,15 +21,23 @@ address:
 
 competences:
 - title: Mathématiques et Informatique
-  url: math-info/
-  img: imi.jpg
+  url: competences/#math-info
   thumbnail: imi-thumbnail.jpg
-  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 - title: Génie Civil et Mécanique
-  url: genie-civil/
-  img: bridge-millau.jpg
+  url: competences/#genie-civil-mecanique
   thumbnail: bridge-millau-thumbnail.jpg
-  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+- title: Énergie, Transports et Aménagements
+  url: competences/#energies-transports-amenagements
+  thumbnail: vet-thumbnail.jpg
+- title: Stratégie, Finance et Économie
+  url: competences/#strategie-finance-economie
+  thumbnail: segf-thumbnail.jpg
+- title: Génie Industriel et Marketing
+  url: competences/#genie-industriel
+  thumbnail: gi-thumbnail.jpg
+- title: Traduction <br> Technique
+  url: competences/#traduction-technique
+  thumbnail: trad-thumbnail.jpg
 
 # Build settings
 markdown: kramdown
