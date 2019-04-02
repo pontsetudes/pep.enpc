@@ -265,15 +265,18 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-header {
-    height: 300px;
+header {    
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
+}
+
+.home-header {
+    height: 300px;
     background: linear-gradient(
         rgba(0, 0, 0, 0.3), 
         rgba(0, 0, 0, 0.3)
-    ),url('{{ site.baseurl }}/img/header-bg.jpg');
+    ),url('{{ site.baseurl }}/img/headers/home-bg.jpg');
+    background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -304,6 +307,38 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
+.subpages-header {
+    height: 200px;
+    height: 300px;
+}
+
+.competences-header {
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+    ),url('{{ site.baseurl }}/img/headers/competences-bg.jpg');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.references-header {
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+    ),url('{{ site.baseurl }}/img/headers/references-bg.jpg');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 100px;
@@ -327,8 +362,9 @@ header .intro-text .intro-heading {
         line-height: 60px;
     }
 }
+
 @media(min-width:768px) {
-    header {
+    .home-header {
         height: 380px;
     }
 }
