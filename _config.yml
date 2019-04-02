@@ -19,6 +19,18 @@ address:
   - line: Champs-sur-Marne
   - line: 77455 Marne-la-Vallée CEDEX 2
 
+competences:
+- title: Mathématiques et Informatique
+  url: math-info/
+  img: imi.jpg
+  thumbnail: imi-thumbnail.jpg
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+- title: Génie Civil et Mécanique
+  url: genie-civil/
+  img: gcc.jpg
+  thumbnail: gcc-thumbnail.jpg
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
 # Build settings
 markdown: kramdown
 permalink: pretty

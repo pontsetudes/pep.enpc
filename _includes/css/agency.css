@@ -216,17 +216,17 @@ fieldset[disabled] .btn-xl.active {
     transition: all ease .35s;
 }
 
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus {
+.navbar-default .nav li a:hover {
+/* .navbar-default .nav li a:focus { */
     outline: 0;
     color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .navbar-nav>.active>a {
+/* .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
-}
+} */
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
@@ -910,3 +910,14 @@ body {
     margin: 0 auto;
     max-width: 900px;
 }
+.portfolio-item:hover .img-centered {
+    opacity: 0.8;
+}
+/* .img-portfolio {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+} */
