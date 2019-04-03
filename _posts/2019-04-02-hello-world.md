@@ -16,4 +16,4 @@ Cette année Ponts Études Projets (PEP) a effectué une étude pour une associa
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![PEP au CRP](/img/headers/blog-bg.jpg)
