@@ -339,6 +339,20 @@ header .intro-text .intro-heading {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.blog-header {
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+    ),url('{{ site.baseurl }}/img/headers/blog-bg.jpg');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 100px;
@@ -906,11 +920,13 @@ ul.social-buttons li a:active {
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
+    color: white;
 }
 
 ::selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
+    color: white;
 }
 
 img::selection {
@@ -957,3 +973,14 @@ body {
     transition: .5s ease;
     backface-visibility: hidden;
 } */
+
+.grey-on-hover:hover {
+    background-color: rgba(220, 220, 220, 0.9);
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+p {
+    text-align: justify;
+}

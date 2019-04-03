@@ -1,0 +1,35 @@
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading" style="padding-bottom: 20px;">Derniers Articles</h2>
+            </div>
+        </div>
+        {% for post in site.posts %}
+            <div onclick="location.href='{{ post.url }}';" class="grey-on-hover">
+                <div class="row" style="margin-bottom: 30px;">
+                    <div class="col-md-12 col-sm-12">
+                        {% if post.thumbnail %}
+                            <div class="col-lg-4 col-sm-4">
+                                <a href="{{ post.url }}" class="portfolio-link" data-toggle="modal">
+                                    <img src="{{ site.baseurl }}/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-portfolio" alt="">
+                                </a>
+                            </div>
+                            <div class="portfolio-caption col-lg-8 col-sm-8" style="margin-top: 15px;">
+                                <h3 style="margin-bottom: 20px;">{{ post.title }}</h4>
+                                <h4>{% assign dy = post.date | date: "%a" %}{% case dy %}{% when "Mon" %}lundi{% when "Tue" %}mardi{% when "Wed" %}mercredi{% when "Thu" %}jeudi{% when "Fri" %}vendredi{% when "Sat" %}samedi{% when "Sun" %}dimanche{% else %}{{ dy }}{% endcase %} {% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %} {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}janv.{% when '2' %}févr.{% when '3' %}mars{% when '4' %}avr.{% when '5' %}mai{% when '6' %}juin{% when '7' %}juil.{% when '8' %}août{% when '9' %}sept.{% when '10' %}oct.{% when '11' %}nov.{% when '12' %}déc.{% endcase %} {{ post.date | date: '%Y' }}</h3>
+                                <p>{{ post.description }}</p>
+                            </div>
+                        {% else %}
+                            <div class="portfolio-caption col-lg-12 col-sm-12">
+                                <h3 style="margin-bottom: 20px;">{{ post.title }}</h4>
+                                <h4>{% assign dy = post.date | date: "%a" %}{% case dy %}{% when "Mon" %}lundi{% when "Tue" %}mardi{% when "Wed" %}mercredi{% when "Thu" %}jeudi{% when "Fri" %}vendredi{% when "Sat" %}samedi{% when "Sun" %}dimanche{% else %}{{ dy }}{% endcase %} {% assign d = post.date | date: "%-d"  %}{% case d %}{% when '1' %}{{ d }}er{% else %}{{ d }}{% endcase %} {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}janv.{% when '2' %}févr.{% when '3' %}mars{% when '4' %}avr.{% when '5' %}mai{% when '6' %}juin{% when '7' %}juil.{% when '8' %}août{% when '9' %}sept.{% when '10' %}oct.{% when '11' %}nov.{% when '12' %}déc.{% endcase %} {{ post.date | date: '%Y' }}</h3>
+                                <p>{{ post.description }}</p>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</section>

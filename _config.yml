@@ -20,19 +20,19 @@ address:
   - line: 77455 Marne-la-Vallée CEDEX 2
 
 competences:
-- title: Mathématiques et Informatique
+- title: Mathématiques et <br> Informatique
   url: competences/#math-info
   thumbnail: imi-thumbnail.jpg
-- title: Génie Civil et Mécanique
+- title: Génie Civil et <br> Mécanique
   url: competences/#genie-civil-mecanique
   thumbnail: bridge-millau-thumbnail.jpg
-- title: Énergie, Transports et Aménagements
+- title: Énergie, Transports et <br> Aménagements
   url: competences/#energies-transports-amenagements
   thumbnail: vet-thumbnail.jpg
-- title: Stratégie, Finance et Économie
+- title: Stratégie, Finance et <br> Économie
   url: competences/#strategie-finance-economie
   thumbnail: segf-thumbnail.jpg
-- title: Génie Industriel et Marketing
+- title: Génie Industriel et <br> Marketing
   url: competences/#genie-industriel
   thumbnail: gi-thumbnail.jpg
 - title: Traduction <br> Technique
