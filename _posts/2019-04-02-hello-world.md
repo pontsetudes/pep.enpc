@@ -5,7 +5,7 @@ layout: posts
 modal-id: 6
 date: 2019-04-02
 lang: fr
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Cette année Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne ainsi que de développer la prospection commerciale dans le secteur du BTP.
 ---
 
 

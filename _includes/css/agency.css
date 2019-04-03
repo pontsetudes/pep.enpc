@@ -308,7 +308,6 @@ header .intro-text .intro-heading {
 }
 
 .subpages-header {
-    height: 200px;
     height: 300px;
 }
 
@@ -353,6 +352,11 @@ header .intro-text .intro-heading {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.post-header {
+    height: 200px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 100px;
