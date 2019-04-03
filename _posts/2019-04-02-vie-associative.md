@@ -2,6 +2,7 @@
 title: Ponts Études Projets au service du secteur associatif 
 layout: posts
 thumbnail: tmp-thumbnail.jpg
+permalink: vie-associative/
 date: 2019-04-02
 lang: fr
 description: Cette année Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne ainsi que de développer la prospection commerciale dans le secteur du BTP.
@@ -31,5 +32,7 @@ Suivie par Lucas, directeur études de PEP, et Laurane, chef de projet à PEP, l
 
 Quant à Laurane, elle est aujourd’hui membre active de PEP au pôle Communication : « Cette mission de suivi d’étude m’a beaucoup plu, elle m’a confortée dans mon choix de rejoindre la Junior Entreprise comme membre du Conseil d’Administration pour le mandat 2018-2019 ».
 
-![Grand Paris Express](/img/posts/equipe.jpg)
-![Logo PEP](/img/logo.png)
+<!-- ![Grand Paris Express](/img/posts/equipe.jpg) -->
+<div style="text-align: center; margin: 0 auto; max-width: 500px;">
+    <img src="/img/posts/equipe.jpg" style="width: 100%;">
+</div>
