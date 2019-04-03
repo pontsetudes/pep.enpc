@@ -18,7 +18,7 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
-p {
+p li {
     font-size: 14px;
     line-height: 1.75;
 }
@@ -52,9 +52,9 @@ h3,
 h4,
 h5,
 h6,
-p {
+p,
+li {
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
 }
 h1,
 h2,
@@ -63,6 +63,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
+    font-weight: 700;
 }
 
 .img-centered {
@@ -213,7 +214,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.navbar-default .nav li a {
+.navbar-default .nav a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
@@ -1018,4 +1019,8 @@ transition: opacity 400ms;
 
 .fade-in.lazyloaded {
 opacity: 1;
+}
+
+a:hover {
+    text-decoration: none;
 }
