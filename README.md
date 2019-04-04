@@ -44,6 +44,12 @@ description: "Aujourd'hui, les membres de PEP ont eu l'occasion de visiter la St
 Ce mercredi 10 octobre, les membres de PEP ont eu la chance de vister la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunis plus d'une vingtaine d'accélerateurs de startups.
 ```
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ## Add an image to the posts' list
 
 This list is available at the url `/blog`. To add a thumbnail image next to the article description, you'll need to add an image in the `/img/posts/thumbnails/` folder. This platform allows `.jpg` and `.png` images. For the thumbnail, I recommend `400x290` images.
