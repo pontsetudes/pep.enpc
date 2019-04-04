@@ -128,6 +128,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
+    margin: 10px;
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
@@ -243,7 +244,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:768px) {
+@media(min-width:1018px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -280,7 +281,7 @@ header {
 }
 
 .home-header {
-    height: 300px;
+    height: 410px;
     background: linear-gradient(
         rgba(0, 0, 0, 0.3), 
         rgba(0, 0, 0, 0.3)
@@ -367,33 +368,10 @@ header .intro-text .intro-heading {
     height: 200px;
 }
 
-@media(min-width:768px) {
-    header .intro-text {
-        padding-top: 100px;
-        padding-bottom: 100px;
-    }
 
-    header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
-    }
-
-    header .intro-text .intro-heading {
-        margin-bottom: 50px;
-        text-transform: uppercase;
-        font-family: {{ site.data.template.font.primary }};
-        font-size: 60px;
-        font-weight: 700;
-        line-height: 60px;
-    }
-}
-
-@media(min-width:768px) {
+@media(min-width:554px) {
     .home-header {
-        height: 380px;
+        height: 350px;
     }
 }
 
@@ -415,6 +393,36 @@ section h3.section-subheading {
     font-style: italic;
     font-weight: 400;
 }
+
+@media(min-width:768px) {
+    header .intro-text {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    header .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: {{ site.data.template.font.secondary }};
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+    }
+
+    header .intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 60px;
+    }
+
+    .home-header {
+        height: 415px;
+    }
+}
+
+
 
 @media(min-width:768px) {
     section {
@@ -990,6 +998,12 @@ body {
 
 .grey-on-hover:hover {
     background-color: rgba(220, 220, 220, 0.9);
+    cursor: pointer;
+}
+
+.dark-grey-on-hover:hover {
+    background-color: rgba(0, 0, 0, 1);
+    cursor: pointer;
 }
 
 h1 {
