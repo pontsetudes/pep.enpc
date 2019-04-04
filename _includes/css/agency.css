@@ -1024,3 +1024,26 @@ opacity: 1;
 a:hover {
     text-decoration: none;
 }
+
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+#contact-form {
+    max-width: 600px;
+    position: -webkit-sticky;
+    top: 20px;
+    position: sticky;
+    margin: auto;
+    display: none;
+    z-index: 2000;
+    overflow: auto;
+    float: center;
+}
