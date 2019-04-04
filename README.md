@@ -71,7 +71,7 @@ If you add the file `/img/posts/station-f.png`, you will be able to get it displ
 ---
 
 ...
-![Description of your image](/img/posts/station-f.png)
+![PEP devant la Station F](/img/posts/station-f.png)
 ```
 
 ## Add an anchor link in the article
