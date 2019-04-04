@@ -24,11 +24,84 @@ bundle exec jekyll serve
 ```
 and browse http://localhost:4000/. Here you go.
 
-# Adding posts to the `/blog/` service
-To add an article, all you need is to create a file in the `/_posts/` folder. The name of the file should be like `YYYY-MM-DD-slug.md`.
+# Adding posts to the blog service
+To add an article, all you need is to create a file in the `/_posts/` folder. The name of the file should be like `YYYY-DD-MM-slug.md`.
 
-Let's focus on a partical example. Create a the file `/_posts/2019-04-04-station-f.md` and paste the code below :
+Let's focus on a partical example. Create a the file `/_posts/2019-12-10-station-f.md` and paste the code below :
 
 ```
+---
+title: PEP à la Station F
+layout: posts
+permalink: station-f/
+date: 2018-12-10
+lang: fr
+description: "Aujourd'hui, les membres de PEP ont eu l'occasion de visiter la Station F : une expérience pleine de découvertes et de rencontres pour nos Junior-Entrepreuneurs !"
+---
 
+# PEP viste la Station F
+
+Ce mercredi 10 octobre, les membres de PEP ont eu la chance de vister la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunis plus d'une vingtaine d'accélerateurs de startups.
+```
+
+## Add an image to the posts' list
+
+This list is available at the url `/blog`. To add a thumbnail image next to the article description, you'll need to add an image in the `/img/posts/thumbnails/` folder. This platform allows `.jpg` and `.png` images. For the thumbnail, I recommend `400x290` images.
+
+Let's practice with our example. Add the image `/img/posts/thumbnails/station-f-thumbnail.jpg`. Then, complete the YAML header in the file `/_posts/2019-12-10-station-f.md` :
+
+```
+---
+...
+thumbnail: station-f-thumbnail.jpg
+---
+
+...
+```
+
+## Add an image in the article
+
+To add an image in an article, you'll need to add the image in the `/img/posts/` folder.
+
+If you add the file `/img/posts/station-f.png`, you will be able to get it displayed in your article by adding the following line in `/_posts/2019-12-10-station-f.md` :
+
+```
+---
+...
+---
+
+...
+![Description of your image](/img/posts/station-f.png)
+```
+
+## Add an anchor link in the article
+
+Just add the following line in `/_posts/2019-12-10-station-f.md` :
+
+```
+---
+...
+---
+
+...
+Pour avoir plus d'informations sur la Station F, cliquez [ici](https://stationf.co/fr/)
+```
+
+## Customize the style of your articles
+
+You can also add HTML blocks and CSS stylesheets to the markdown files to have give a fully personalized style to each article.
+
+```
+---
+...
+---
+
+...
+<div style="text-align: center; margin: 20px;">
+    <p><i>This text has an italic font-decoration</i></p>
+</div>
+...
+<div style="text-align: center; margin: 0 auto; max-width: 500px;">
+    <img src="/img/posts/equipe.jpg" style="width: 100%;">
+</div>
 ```
