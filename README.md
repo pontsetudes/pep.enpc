@@ -89,7 +89,7 @@ Pour avoir plus d'informations sur la Station F, cliquez [ici](https://stationf.
 
 ## Customize the style of your articles
 
-You can also add HTML blocks and CSS stylesheets to the markdown files to have give a fully personalized style to each article.
+You can also add HTML blocks and inline CSS to the markdown files to give a fully personalized style to each article.
 
 ```
 ---
