@@ -368,6 +368,19 @@ header .intro-text .intro-heading {
     height: 200px;
 }
 
+.contact-form-header {
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+    ),url('{{ site.baseurl }}/img/headers/equipe.jpeg');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 @media(min-width:554px) {
     .home-header {
@@ -752,7 +765,7 @@ section#contact {
     background: linear-gradient(
         rgba(0, 0, 0, 0.7), 
         rgba(0, 0, 0, 0.7)
-    ),url('{{ site.baseurl }}/img/equipe.jpeg');
+    ),url('{{ site.baseurl }}/img/headers/equipe.jpeg');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1052,12 +1065,23 @@ input[type=text], select, textarea {
 
 #contact-form {
     max-width: 600px;
-    position: -webkit-sticky;
-    top: 20px;
-    position: sticky;
     margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.not-active-button:focus {
+    background: #{{ site.data.template.color.primary }};
+}
+
+#form-error {
+    color: red;
     display: none;
-    z-index: 2000;
-    overflow: auto;
-    float: center;
+    margin-top: 10px;
+}
+
+#form-success {
+    color: green;
+    display: none;
+    margin-top: 10px;
 }
