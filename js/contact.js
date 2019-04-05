@@ -12,8 +12,16 @@ function postToGoogleForm(form) {
     });
 }
 
-function validateForm(form) {
+function clearForm(form) {
+    form.elements["entry.569483692"].value = "";
+    form.elements["entry.683583938"].value = "";
+    form.elements["entry.1746294369"].value = "";
+    form.elements["entry.945021883"].value = "";
+    form.elements["entry.226339160"].value = "";
 
+}
+
+function validateForm(form) {
     if (form.elements["entry.569483692"].value == "") {
        return false;
     }
@@ -41,5 +49,6 @@ function handleSubmitForm(form) {
         postToGoogleForm(form);
         document.getElementById("form-error").style.display = 'none';
         document.getElementById("form-success").style.display = 'block';
+        clearForm(form);
     }
 }
