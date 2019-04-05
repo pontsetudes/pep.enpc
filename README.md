@@ -38,7 +38,7 @@ description: "Aujourd'hui, les membres de PEP ont eu l'occasion de visiter la St
 
 # PEP viste la Station F
 
-Ce mercredi 10 octobre, les membres de PEP ont eu la chance de vister la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunis plus d'une vingtaine d'accélerateurs de startups.
+Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunit plus d'une vingtaine d'accélerateurs de startups.
 ```
 
 |  header attribute   |            attribute           |
