@@ -27,7 +27,7 @@ and browse http://localhost:4000/. Here you go.
 # Adding posts to the blog service
 To add an article, all you need is to create a file in the `/_posts/` folder. The name of the file should be like `YYYY-DD-MM-slug.md`.
 
-Let's focus on a partical example. Create a the file `/_posts/2019-12-10-station-f.md` and paste the code below :
+Let's focus on a practical example. Create a the file `/_posts/2019-12-10-station-f.md` and paste the code below :
 
 ```
 ---
@@ -41,7 +41,7 @@ description: "Aujourd'hui, les membres de PEP ont eu l'occasion de visiter la St
 
 # PEP viste la Station F
 
-Ce mercredi 10 octobre, les membres de PEP ont eu la chance de vister la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunis plus d'une vingtaine d'accélerateurs de startups.
+Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunit plus d'une vingtaine d'accélerateurs de startups.
 ```
 
 |  header attribute   |            attribute           |
