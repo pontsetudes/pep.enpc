@@ -10,12 +10,9 @@ First, install Ruby on the website https://www.ruby-lang.org/en/downloads/.
 Then open a terminal and run :
 ```
 gem install jekyll bundler
-gem install jekyll-feed
-gem install jekyll-seo-tag
-gem install jekyll-responsive-image
 git clone https://github.com/pontsetudes/pep.enpc.git
 cd pep.enpc
-bundle update
+bundle install
 ```
 
 Then start the local server running :
@@ -25,9 +22,9 @@ bundle exec jekyll serve
 and browse http://localhost:4000/. Here you go.
 
 # Adding posts to the blog service
-To add an article, all you need is to create a file in the `/_posts/` folder. The name of the file should be like `YYYY-DD-MM-slug.md`.
+To add an article, all you need is to create a file in the `/_posts/` folder. The name of the file should be like `YYYY-MM-DD-slug.md`.
 
-Let's focus on a partical example. Create a the file `/_posts/2019-12-10-station-f.md` and paste the code below :
+Let's focus on a partical example. Create a the file `/_posts/2019-10-12-station-f.md` and paste the code below :
 
 ```
 ---
