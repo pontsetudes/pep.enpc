@@ -78,7 +78,8 @@ If you add the file `/img/posts/station-f.png`, you will be able to get it displ
 ---
 
 ...
-![PEP devant la Station F](/img/posts/station-f.png)
+![PEP devant la Station F](/img/posts/station-f.png){:class="img-responsive img-centered"}
+<div><p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">Ceci est la légende associée</p></div>
 ```
 
 ## Add an anchor link in the article
