@@ -1000,14 +1000,6 @@ body {
 .portfolio-item:hover .img-centered {
     opacity: 0.8;
 }
-/* .img-portfolio {
-    opacity: 1;
-    display: block;
-    width: 100%;
-    height: auto;
-    transition: .5s ease;
-    backface-visibility: hidden;
-} */
 
 .grey-on-hover:hover {
     background-color: rgba(220, 220, 220, 0.9);
@@ -1084,4 +1076,8 @@ input[type=text], select, textarea {
     color: green;
     display: none;
     margin-top: 10px;
+}
+
+.hidden-text {
+    display: none;
 }
