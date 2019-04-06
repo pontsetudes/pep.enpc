@@ -1,12 +1,10 @@
-<div style="height: 50px;"></div>
+<div style="height: 30px;"></div>
     {% for competence in site.competences %}
-        <div class="row">
-            <div class="col-lg-1 xs-hidden"></div>
-            <div class="col-lg-10">
-                <section id="{{ competence.slug }}" class="col-lg-10" style="padding-top: 10px; padding-bottom: 20px;">
-                    <div class="container bg-light-gray" style="max-width: 1000px; margin: auto;">
+        <div class="row" style="text-align: center; margin-right: 10px; margin-left: 10px;">
+            <div style='max-width: 1000px; margin: 10px auto;'>
+                <section id="{{ competence.slug }}" style="padding-top: 10px; padding-bottom: 0px;">
+                    <div class="bg-light-gray" style="padding-bottom: 1px;">
                         <div 
-                            class="row" 
                             style=
                                 "height: 200px;
                                 background: linear-gradient(
@@ -24,24 +22,21 @@
                                 line-height: 200px;">
                                 <h2 class="section-heading" style="font-size: 30px; color: white; text-align: center; line-height: 200px;"><span style="vertical-align: middle; line-height: 30px; display: inline-block;">{{ competence.title }}</span></h2>
                         </div>
-                        <div class="row">
-                            <div class="container" style="margin: auto; max-width: 800px; margin-top: 20px; margin-bottom: 20px;">
-                                <div><p>{{ competence.description }}</p></div>
-                                <div id="description-{{ competence.slug }}" class="hidden-text">
-                                    {{ competence.text }}
-                                    <div style="text-align: center;">
-                                        <a href="#{{ competence.slug }}" onclick="showtextonclick('description-{{ competence.slug }}', 'show-more-{{ competence.slug }}')"><i class="fas fa-chevron-up"></i></a>
-                                    </div>
-                                </div>
-                                <div id="show-more-{{ competence.slug }}" style="display: block; text-align: center;">
-                                    <a onclick="showtextonclick('show-more-{{ competence.slug }}', 'description-{{ competence.slug }}')"><i class="fas fa-chevron-down"></i></a>
+                        <div class="container" style="margin: 10px auto; max-width: 800px; margin-top: 20px; margin-bottom: 20px;">
+                            <div><p>{{ competence.description }}</p></div>
+                            <div id="description-{{ competence.slug }}" class="hidden-text">
+                                {{ competence.text }}
+                                <div style="text-align: center;">
+                                    <a href="#{{ competence.slug }}" onclick="showtextonclick('description-{{ competence.slug }}', 'show-more-{{ competence.slug }}')"><i class="fas fa-chevron-up"></i></a>
                                 </div>
                             </div>
-                        </div>
+                            <div id="show-more-{{ competence.slug }}" style="display: block; text-align: center;">
+                                <a onclick="showtextonclick('show-more-{{ competence.slug }}', 'description-{{ competence.slug }}')"><i class="fas fa-chevron-down"></i></a>
+                            </div>
+                        </div> 
                     </div>
                 </section>
             </div>
-            <div class="col-lg-1 xs-hidden"></div>
         </div>
     {% endfor %}
 <div style="height: 50px;"></div>
