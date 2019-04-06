@@ -9,7 +9,7 @@
         {% for competence in site.competences %}
             <div class="col-md-4 col-sm-6 portfolio-item">
                 <a href="competences/" class="portfolio-link" data-toggle="modal">
-                    <img src="{{ site.baseurl }}/img/competences/{{ competence.thumbnail }}" class="img-responsive img-centered img-portfolio" alt="">
+                    <img src="{{ site.baseurl }}/img/competences/{{ competence.thumbnail }}" class="img-responsive img-centered img-portfolio" alt="{{ competence.alt }}">
                 </a>
                 <div class="portfolio-caption">
                     <h4>{{ competence.title }}</h4>

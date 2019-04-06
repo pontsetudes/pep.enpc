@@ -17,7 +17,7 @@ Cette étude s’avère particulièrement intéressante puisque pour la réalise
 <br>
 
 
-![Grand Paris Express](/img/posts/enpc-exterieur.jpg){:class="img-responsive img-centered"}
+![École des Ponts ParisTech](/img/posts/enpc-exterieur.jpg){:class="img-responsive img-centered"}
 <div><p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">L'École des Ponts ParisTech</p></div>
 <br>
 
@@ -38,7 +38,7 @@ La mission qui nous a été confiée nécessitait un vaste travail “Pour mener
 <br>
 
 <div style="text-align: center; margin: 0 auto; max-width: 500px; margin-bottom: 7px;">
-    <img src="/img/posts/equipe.jpg" style="width: 100%;">
+    <img src="/img/posts/equipe.jpg" style="width: 100%;" alt="equipe 2018-2019">
 </div>
 <div><p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">Le mandat 2018-2019 de Ponts Études Projets</p></div>
 

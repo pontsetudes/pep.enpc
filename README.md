@@ -110,6 +110,6 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
 </div>
 ...
 <div style="text-align: center; margin: 0 auto; max-width: 500px;">
-    <img src="/img/posts/equipe.jpg" style="width: 100%;">
+    <img src="/img/posts/equipe.jpg" style="width: 100%;" alt="Description">
 </div>
 ```

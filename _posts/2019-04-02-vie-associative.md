@@ -35,6 +35,6 @@ Quant à Laurane, elle est aujourd’hui membre active de PEP au pôle Communica
 <br>
 
 <div style="text-align: center; margin: 0 auto; max-width: 500px; margin-bottom: 7px;">
-    <img src="/img/posts/equipe.jpg" style="width: 100%;">
+    <img src="/img/posts/equipe.jpg" style="width: 100%;" alt="equipe 2018-2019">
 </div>
 <div><p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">Le mandat 2018-2019 de Ponts Études Projets</p></div>
