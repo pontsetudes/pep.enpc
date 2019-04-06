@@ -2,6 +2,7 @@
 title: Ponts Études Projets au service du secteur associatif 
 layout: posts
 thumbnail: tmp-thumbnail.jpg
+alt: Grand Paris Express
 permalink: vie-associative/
 date: 2019-04-02
 lang: fr

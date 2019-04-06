@@ -2,6 +2,7 @@
 title: PEP au service d'une institution publique
 layout: posts
 thumbnail: enpc-exterieur-thumbnail.jpg
+alt: ENPC
 permalink: institution-publique/
 date: 2019-04-05
 lang: fr

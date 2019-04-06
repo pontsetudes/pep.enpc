@@ -41,15 +41,16 @@ description: "Aujourd'hui, les membres de PEP ont eu l'occasion de visiter la St
 Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Station F, le célèbre campus de startup parisien. Ce lieu clef pour les entrepreneurs franciliens réunit plus d'une vingtaine d'accélerateurs de startups.
 ```
 
-|  header attribute   |              value             |
-|:-------------------:|:------------------------------:|
-|        title        |    string on the tab bar       |
-|        layout       | keep this value equal to `post`|
-|       permalink     | url path to the article        |
-|         date        |          YYYY-DD-MM            |
-|         lang        | keep this value equal to `fr`  |
-|      description    |   description of the article   |
-| thumnail (optional) |  file_name of the thumbnail    |
+|         header attribute       |              value             |
+|:------------------------------:|:------------------------------:|
+|              title             |    string on the tab bar       |
+|             layout             | keep this value equal to `post`|
+|            permalink           | url path to the article        |
+|                date            |          YYYY-DD-MM            |
+|                lang            | keep this value equal to `fr`  |
+|            description         |   description of the article   |
+|       thumnail (optional)      |  file_name of the thumbnail    |
+| alt (if you add a thumbnail)   |   description of the thumbnail |
 
 ## Add an image to the posts' list (thumbnail)
 
@@ -61,6 +62,7 @@ Let's practice with our example. Add the image `/img/posts/thumbnails/station-f-
 ---
 ...
 thumbnail: station-f-thumbnail.jpg
+alt: Station F
 ---
 
 ...
