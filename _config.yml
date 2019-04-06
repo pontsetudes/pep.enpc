@@ -3,18 +3,26 @@ baseurl:
 
 title: Ponts Études Projets - Junior-Entreprise des Ponts
 email: pep@enpc.org
-description: Depuis 40 ans, la Junior-Entreprise de l'École des Ponts ParisTech réalise des missions dans les domaines du génie civil, de l'informatique, du génie mécanique, de la finance, du génie industriel, de l'environnement et des transports."
+description: Depuis 40 ans, la Junior-Entreprise de l'École des Ponts ParisTech réalise des missions dans les domaines du génie civil, de l'informatique, du génie mécanique, de la finance, du génie industriel, de l'environnement et des transports.
 logo: /img/logo.png
 google_site_verification: h4uVZOs1NY-JH1R35BEvVExjF1qovy-X6ckHxqnGGp8
 lang: fr
+
 author:
   twitter: pontsetudes
+
+social:
+  name: Ponts Etudes Projets
+  links:
+    - http://www.linkedin.com/company/ponts-etudes-projets/
+    - https://www.facebook.com/junior.entreprise.ponts.etudes.projets
+    - http://twitter.com/pontsetudes
 
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-social:
+networks:
   - title: linkedin
     url: http://www.linkedin.com/company/ponts-etudes-projets/
   - title: twitter
@@ -22,6 +30,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/junior.entreprise.ponts.etudes.projets
 
+  
 address:
   - line: 6-8 boulevard Copernic
   - line: Champs-sur-Marne
