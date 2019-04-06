@@ -1,12 +1,18 @@
 url: "https://pep.enpc.org"
-# baseurl: 
+baseurl: 
 
-title: PEP
+title: PEP - Junior-Entreprise des Ponts
 email: pep@enpc.org
 description: "La Junior-Entreprise des Ponts"
+logo: /img/logo.png
+google_site_verification: h4uVZOs1NY-JH1R35BEvVExjF1qovy-X6ckHxqnGGp8
+lang: fr
+author:
+  twitter: pontsetudes
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 social:
   - title: linkedin
@@ -20,6 +26,7 @@ address:
   - line: 6-8 boulevard Copernic
   - line: Champs-sur-Marne
   - line: 77455 Marne-la-Vallée CEDEX 2
+
 
 competences:
   - title: Mathématiques et <br> Informatique
