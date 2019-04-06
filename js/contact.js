@@ -31,9 +31,6 @@ function validateForm(form) {
     if (form.elements["entry.1746294369"].value == "") {
        return false;
     }
-    if (form.elements["entry.945021883"].value == "") {
-        return false;
-    }
     if (form.elements["entry.226339160"].value == "") {
         return false;
     }
