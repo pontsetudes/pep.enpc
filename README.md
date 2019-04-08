@@ -65,7 +65,7 @@ Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Statio
 
 This list is available at the url `/blog`. To add a thumbnail image next to the article description, you'll need to add an image in the `/img/posts/thumbnails/` folder. This platform allows `.jpg` and `.png` images. For the thumbnail, I recommend `400x290` images.
 
-Let's practice with our example. Add the image `/img/posts/thumbnails/station-f-thumbnail.jpg`. Then, complete the YAML header in the file `/_posts/2019-12-10-station-f.md` :
+Let's practice with our example. Add the image `/img/posts/thumbnails/station-f-thumbnail.jpg`. Then, complete the YAML header in the file `/_posts/2019-10-12-station-f.md` :
 
 ```
 ---
