@@ -7,7 +7,7 @@ This website is powered by the Ruby-based framework Jekyll and hosted by GitHub 
         <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll Logo">
     </a>
     <a>
-        <img src="https://jekyllrb.com/img/octojekyll.pngg" alt="GitHub Pages Logo">
+        <img src="https://jekyllrb.com/img/octojekyll.png" alt="GitHub Pages Logo">
     </a>
 </p>
 
