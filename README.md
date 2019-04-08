@@ -2,6 +2,10 @@
 
 This website is powered by the Ruby-based framework Jekyll.
 
+<p align="center">
+  <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll Logo">
+</p>
+
 # Installation
 This installation guide was written for a UNIX-based OS. If you encounter issues following these instructions while installing on Windows, please refer to Jekyll's documentation (https://jekyllrb.com/docs/).
 
