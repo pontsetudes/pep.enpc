@@ -751,15 +751,6 @@ aside.clients img {
     margin-bottom: -20px;
 }
 
-.inner-partners-div {
-    margin: 5px auto;
-}
-
-.inner-partners-div > a {
-    display: table-cell;
-    vertical-align: middle;
-}
-
 section#contact {
     background-color: #222;
     background: linear-gradient(
