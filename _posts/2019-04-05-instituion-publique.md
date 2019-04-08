@@ -1,5 +1,5 @@
 ---
-title: PEP au service d'une institution publique
+title: Conception d'un programme de vision artificielle
 layout: posts
 thumbnail: enpc-exterieur-thumbnail.jpg
 alt: ENPC
@@ -10,7 +10,7 @@ description: En 2017, Ponts Etudes Projets a pu s’investir dans une étude com
 ---
 
 
-# Ponts Études Projets au service d'une institution publique
+# Conception d'un programme de vision artificielle
 
 En 2017, Ponts Etudes Projets a pu s’investir dans une étude commanditée par une importante institution publique française. La mission avait pour objectif de proposer une méthode de scan des pièces d’identité qui permettrait de rentrer l’état civil de l’individu automatiquement dans une base de données, en utilisant un logiciel de reconnaissance de caractères.
 Cette étude s’avère particulièrement intéressante puisque pour la réaliser, PEP est parti du besoin exprimé par le client pour construire pas à pas, de zéro, une solution innovante et efficiente qui répondrait aux besoins du commanditaire.
