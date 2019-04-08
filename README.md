@@ -1,6 +1,6 @@
 # pep.enpc
 
-This website is powered by the Ruby-based framework Jekyll and hosted by GitHub Pages 
+This website is powered by the Ruby-based framework Jekyll and hosted by GitHub Pages.
 
 <p align="center">
     <a href="https://jekyllrb.com/">
