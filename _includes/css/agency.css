@@ -128,8 +128,9 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    margin: 10px;
-    padding: 20px 40px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 15px 20px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
@@ -138,6 +139,13 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+}
+
+@media(min-width: 375px) {
+    .btn-xl {
+        padding: 15px 40px;
+        margin: 10px;
+    }
 }
 
 .btn-xl:hover,
@@ -395,7 +403,13 @@ section {
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 30px;
+}
+
+@media(min-width: 370px) {
+    section h2.section-heading {
+        font-size: 40px;
+    }
 }
 
 section h3.section-subheading {
