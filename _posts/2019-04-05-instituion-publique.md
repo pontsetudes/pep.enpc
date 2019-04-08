@@ -30,8 +30,12 @@ Les 2 étudiants réalisateurs ont été choisis pour leur motivation et leur co
 Le deuxième étudiant, Basile, en première année durant l’étude, a lui aussi bénéficié d’un apport pédagogique conséquent puisqu’il fut encadré par Louis, d’un an son aîné. En effet, ce dernier a pu l’aider et lui partager ses connaissances dans la réalisation de cette étude importante.
 <br>
 
-<div style="text-align: center; margin: 20px;">
-<p><i>L'objectif est de proposer une méthode de scan des pièces d’identité pour rentrer l’état civil de l’individu automatiquement.</i></p>
+<div style="margin-top: 30px; margin-bottom: 30px;">
+<img src="/img/posts/tools/quote-mode.png" alt="begin quote" style="float: left;" width="10" height="10">
+<div style="text-align: center; margin-right: 20px;margin-left: 20px;">
+<p><i>L'objectif est de proposer une méthode de scan des pièces d’identité pour rentrer l’état civil de l’individu automatiquement.</i><img src="/img/posts/tools/reverse-quote-mode.png" alt="begin quote" style="float: right; margin-top: 7px;" width="10" height="10"></p>
+
+</div>
 </div>
 
 La mission qui nous a été confiée nécessitait un vaste travail “Pour mener à bien cette mission, notre choix s’est porté vers Louis, d’une part, étudiant en filière Ingénierie Mathématiques et Informatique (IMI) et vers Basile d’autre part, étudiant en Première Année. Je voulais laisser sa chance à Basile qui était motivé et témoignait de son appétence pour le secteur Informatique.” se rappelle Claire Lin, la chef de Projet responsable du suivi de l’étude. Malgré cette charge de travail conséquente, le commanditaire pouvait compter sur la Chef de Projet, agissant en tant qu'intermédiaire entre les étudiants et le client, et qui lui dressait régulièrement l'état actuel de l'étude ainsi que son avancement.
