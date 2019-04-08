@@ -49,7 +49,7 @@ Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Statio
 |                date            |          YYYY-DD-MM            |
 |                lang            | keep this value equal to `fr`  |
 |            description         |   description of the article   |
-|       thumnail (optional)      |  file_name of the thumbnail    |
+|       thumbnail (optional)      |  file_name of the thumbnail    |
 | alt (if you add a thumbnail)   |   description of the thumbnail |
 
 ## Add an image to the posts' list (thumbnail)
