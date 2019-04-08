@@ -134,7 +134,7 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
 ...
 <div style="margin-top: 30px; margin-bottom: 30px;">
     <img src="/img/posts/tools/quote-mode.png" alt="begin quote" style="float: left;" width="10" height="10">
-    <div style="text-align: center; margin-right: 20px;margin-left: 20px;">
+    <div style="text-align: center; margin-right: 20px; margin-left: 20px;">
         <p>
             <i>
                 Your fantastic quote
