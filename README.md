@@ -81,7 +81,11 @@ If you add the file `/img/posts/station-f.png`, you will be able to get it displ
 
 ...
 ![PEP devant la Station F](/img/posts/station-f.png){:class="img-responsive img-centered"}
-<div><p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">Ceci est la légende associée</p></div>
+<div>
+    <p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">
+        Ceci est la légende associée
+    </p>
+</div>
 ```
 
 ## Add an anchor link in your articles
@@ -108,7 +112,11 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
 
 ...
 <div style="text-align: center; margin: 20px;">
-    <p><i>This text has an italic font-decoration</i></p>
+    <p>
+        <i>
+            This text has an italic font-decoration
+        </i>
+    </p>
 </div>
 ...
 <div style="text-align: center; margin: 0 auto; max-width: 500px;">
