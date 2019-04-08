@@ -6,20 +6,20 @@ alt: Grand Paris Express
 permalink: vie-associative/
 date: 2019-04-02
 lang: fr
-description: Cette année Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne ainsi que de développer la prospection commerciale dans le secteur du BTP.
+description: Cette année, Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d'une part d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne et d'autre part de développer la prospection commerciale dans le secteur du BTP.
 ---
 
 
 # Ponts Études Projets au service du secteur associatif !
 
-Cette année Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne ainsi que de développer la prospection commerciale dans le secteur du BTP. C’est le Directeur Général de l’association, ancien diplômé des Ponts, qui a contacté PEP pour ses relations privilégiées avec le monde des Travaux Publics. La demande était très claire et la mission a été rapidement lancée. Il s’agissait de réaliser un business plan réactualisé, de réorganiser la structure commerciale pour optimiser la réinsertion des jeunes dans le marché du travail.
+Cette année, Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d'une part d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne et d'autre part de développer la prospection commerciale dans le secteur du BTP. C’est le Directeur Général de l’association, ancien diplômé des Ponts, qui a contacté PEP pour ses relations privilégiées avec le monde des Travaux Publics. La demande était très claire et la mission a été rapidement lancée. Il s’agissait de réaliser un business plan réactualisé, de réorganiser la structure commerciale pour optimiser la réinsertion des jeunes dans le marché du travail.
 
 <br>
 ![Grand Paris Express](/img/posts/tmp.jpg){:class="img-responsive img-centered"}
 <div><p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">Le Grand Paris Express</p></div>
 <br>
 
-Une fois l’étude signée, PEP a sélectionné une étudiante du département Génie Civil et Construction (GCC). « Lors de son entretien, j’ai vu que sa motivation et son expérience passée dans le domaine associatif serait un atout pour mener à bien ce projet ambitieux», raconte Laurane, chef de projet de Ponts Études Projets, qui a suivi l’étude. L’étudiante, Romane, avait déjà une expérience de conseil bénévole au sein de l’association Alter’Actions (missions de conseil pour des structures de l’économie sociale et solidaire), et avait travaillé sur un projet de construction de logements d’urgence dans le cadre de son parcours ingénieur-architecte à l’École des Ponts.
+Une fois l’étude signée, PEP a sélectionné une étudiante du département Génie Civil et Construction (GCC). « Lors de son entretien, j’ai vu que sa motivation et son expérience passée dans le domaine associatif seraient un atout pour mener à bien ce projet ambitieux», raconte Laurane, chef de projet de Ponts Études Projets, qui a suivi l’étude. L’étudiante, Romane, avait déjà une expérience de conseil bénévole au sein de l’association Alter’Actions (missions de conseil pour des structures de l’économie sociale et solidaire), et avait travaillé sur un projet de construction de logements d’urgence dans le cadre de son parcours ingénieur-architecte à l’École des Ponts.
 
 Romane témoigne :
 <br>
