@@ -146,14 +146,22 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
 ```
 
 ## Add Youtube Videos to your articles
+With a clickable image : 
 ```
 ---
 ...
 ---
 
 ...
-[![Description of your video](http://img.youtube.com/vi/iPGgnzc34tY/0.jpg)](https://www.youtube.com/watch?v=iPGgnzc34tY)
+[![Description of your video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID){:class="img-responsive img-centered"}
 ```
-[![Description of your video](http://img.youtube.com/vi/iPGgnzc34tY/0.jpg)](https://www.youtube.com/watch?v=iPGgnzc34tY)
+With an embedded youtube video reader : 
+```
+---
+...
+---
+
+...
+<iframe class="img-responsive img-centered" width="560" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 For further information, feel free to contact me : antoine.eudes@gmail.com
