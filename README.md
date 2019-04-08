@@ -24,7 +24,7 @@ and browse http://localhost:4000/. Here you go.
 # Adding posts to the blog service
 To add an article, all you need is to create a file in the `/_posts/` folder. The name of the file should be like `YYYY-MM-DD-slug.md`.
 
-Let's focus on a partical example. Create a the file `/_posts/2019-10-12-station-f.md` and paste the code below :
+Let's focus on a practical example. Create a the file `/_posts/2019-10-12-station-f.md` and paste the code below :
 
 ```
 ---
