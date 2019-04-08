@@ -3,7 +3,9 @@
 This website is powered by the Ruby-based framework Jekyll.
 
 <p align="center">
-  <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll Logo">
+    <a href="https://jekyllrb.com/">
+        <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll Logo">
+    </a>
 </p>
 
 # Installation
