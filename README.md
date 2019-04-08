@@ -146,7 +146,7 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
 ```
 
 ## Add Youtube Videos to your articles
-With a clickable image : 
+As a clickable image : 
 ```
 ---
 ...
@@ -155,7 +155,7 @@ With a clickable image :
 ...
 [![Description of your video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID){:class="img-responsive img-centered"}
 ```
-With an embedded youtube video reader : 
+As an embedded youtube video reader : 
 ```
 ---
 ...
