@@ -25,7 +25,8 @@
                         <div class="container" style="margin: 10px auto; max-width: 800px; margin-top: 20px; margin-bottom: 20px;">
                             <div><p>{{ competence.description }}</p></div>
                             <div id="description-{{ competence.slug }}" class="hidden-text">
-                                {{ competence.text }}
+                                <!-- {{ competence.text }} -->
+                                {% include competences/{{ competence.slug }}.html %}
                                 <div style="text-align: center;">
                                     <a href="#{{ competence.slug }}" onclick="showtextonclick('description-{{ competence.slug }}', 'show-more-{{ competence.slug }}')"><i class="fas fa-chevron-up"></i></a>
                                 </div>
