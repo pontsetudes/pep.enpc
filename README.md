@@ -81,7 +81,7 @@ alt: Station F
 
 To add an image in an article, you'll need to add the image in the `/img/posts/` folder.
 
-If you add the file `/img/posts/station-f.png`, you will be able to get it displayed in your article by adding the following line in `/_posts/2019-12-10-station-f.md` :
+If you add the file `/img/posts/station-f.png`, you will be able to get it displayed in your article by adding the following line in `/_posts/2019-10-12-station-f.md` :
 
 ```
 ---
