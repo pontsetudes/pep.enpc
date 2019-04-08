@@ -144,5 +144,16 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
     </div>
 </div>
 ```
+
+## Add Youtube Videos to your articles
+```
+---
+...
+---
+
+...
+[![Description of your video](http://img.youtube.com/vi/iPGgnzc34tY/0.jpg)](https://www.youtube.com/watch?v=iPGgnzc34tY)
+```
+[![Description of your video](http://img.youtube.com/vi/iPGgnzc34tY/0.jpg)](https://www.youtube.com/watch?v=iPGgnzc34tY)
 ---
 For further information, feel free to contact me : antoine.eudes@gmail.com
