@@ -68,7 +68,7 @@ alt: Station F
 ...
 ```
 
-## Add an image in your articles
+## Add images to your articles
 
 To add an image in an article, you'll need to add the image in the `/img/posts/` folder.
 
@@ -88,7 +88,7 @@ If you add the file `/img/posts/station-f.png`, you will be able to get it displ
 </div>
 ```
 
-## Add an anchor link in your articles
+## Add anchor links to your articles
 
 Just add the following line in `/_posts/2019-12-10-station-f.md` :
 
