@@ -20,7 +20,7 @@ Then open a terminal and run :
 ```
 gem install jekyll bundler
 git clone https://github.com/pontsetudes/pep.enpc.git
-cd pep.enpc
+cd pep.enpc/
 bundle install
 ```
 
