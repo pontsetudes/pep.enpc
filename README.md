@@ -162,6 +162,11 @@ With an embedded youtube video reader :
 ---
 
 ...
-<iframe class="img-responsive img-centered" width="560" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+	<div class="video-container">
+		<iframe src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" width="800" height="450" frameborder="0"></iframe>
+	</div>
+</div>
+```
 ---
 For further information, feel free to contact me : antoine.eudes@gmail.com
