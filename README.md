@@ -153,7 +153,7 @@ As a clickable image :
 ---
 
 ...
-[![Description of your video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID){:class="img-responsive img-centered"}
+[![Description of your video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg){:class="img-responsive img-centered"}](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 ```
 As an embedded youtube video reader : 
 ```
