@@ -99,7 +99,7 @@ If you add the file `/img/posts/station-f.png`, you will be able to get it displ
 
 ## Add anchor links to your articles
 
-Just add the following line in `/_posts/2019-12-10-station-f.md` :
+Just add the following line in `/_posts/2019-10-12-station-f.md` :
 
 ```
 ---
