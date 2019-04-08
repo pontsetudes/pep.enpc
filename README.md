@@ -1,6 +1,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/antoineeudes/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/pontsetudes/pep.enpc/issues/)
+[![GitHub issues](https://img.shields.io/github/issues/pontsetudes/pep.enpc.svg)](https://github.com/pontsetudes/pep.enpc/issues/)
+![GitHub contributors](https://img.shields.io/github/contributors/pontsetudes/pep.enpc.svg)
 # pep.enpc
 
 This website is powered by the Ruby-based framework Jekyll and hosted by GitHub Pages.
