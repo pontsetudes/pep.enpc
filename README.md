@@ -44,7 +44,7 @@ Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Statio
 |         header attribute       |              value             |
 |:------------------------------:|:------------------------------:|
 |              title             |    string on the tab bar       |
-|             layout             | keep this value equal to `post`|
+|             layout             | keep this value equal to `posts`|
 |            permalink           | url path to the article        |
 |                date            |          YYYY-DD-MM            |
 |                lang            | keep this value equal to `fr`  |
