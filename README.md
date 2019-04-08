@@ -115,3 +115,26 @@ You can also add HTML blocks and inline CSS to the markdown files to give a full
     <img src="/img/posts/equipe.jpg" style="width: 100%;" alt="Description">
 </div>
 ```
+
+## Add quotes to your articles
+
+```
+---
+...
+---
+
+...
+<div style="margin-top: 30px; margin-bottom: 30px;">
+    <img src="/img/posts/tools/quote-mode.png" alt="begin quote" style="float: left;" width="10" height="10">
+    <div style="text-align: center; margin-right: 20px;margin-left: 20px;">
+        <p>
+            <i>
+                Your fantastic quote
+            </i>
+            <img src="/img/posts/tools/reverse-quote-mode.png" alt="end quote" style="float: right; margin-top: 7px;" width="10" height="10">
+        </p>
+    </div>
+</div>
+```
+---
+For further information, feel free to contact me : antoine.eudes@gmail.com

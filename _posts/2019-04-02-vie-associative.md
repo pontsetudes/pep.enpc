@@ -25,10 +25,15 @@ Romane témoigne :
 <br>
 
 <div style="margin-top: 30px; margin-bottom: 30px;">
-<img src="/img/posts/tools/quote-mode.png" alt="begin quote" style="float: left;" width="10" height="10">
-<div style="text-align: center; margin-right: 20px;margin-left: 20px;">
-<p><i>Grâce à mon parcours en GCC (Génie Civil et Construction) et mon expérience de conseil auprès d’AlterActions, je savais que j’avais les compétences pour réaliser ce projet et que ça allait aussi beaucoup m’apporter.</i><img src="/img/posts/tools/reverse-quote-mode.png" alt="end quote" style="float: right; margin-top: 7px;" width="10" height="10"></p>
-</div>
+    <img src="/img/posts/tools/quote-mode.png" alt="begin quote" style="float: left;" width="10" height="10">
+    <div style="text-align: center; margin-right: 20px;margin-left: 20px;">
+        <p>
+            <i>
+                Grâce à mon parcours en GCC (Génie Civil et Construction) et mon expérience de conseil auprès d’AlterActions, je savais que j’avais les compétences pour réaliser ce projet et que ça allait aussi beaucoup m’apporter.
+            </i>
+            <img src="/img/posts/tools/reverse-quote-mode.png" alt="end quote" style="float: right; margin-top: 7px;" width="10" height="10">
+        </p>
+    </div>
 </div>
 
 Suivie par Lucas, directeur études de PEP, et Laurane, chef de projet à PEP, l’étude s’est déroulée dans de bonnes conditions. La communication régulière entre PEP et le client a été cruciale pour que le travail de Romane soit toujours en adéquation avec les besoins de la structure. L’étudiante a effectué un audit exhaustif des process internes de l’association et a trouvé des prospects pour développer l’activité commerciale de la structure.
