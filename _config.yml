@@ -37,7 +37,7 @@ address:
   - line: 77455 Marne-la-Vallée CEDEX 2
 
 competences:
-  - title: Mathématiques et <br> Informatique
+  - title: Informatique et Data Science
     slug: math-info
     thumbnail: imi-thumbnail.jpg
     img: imi.jpg
