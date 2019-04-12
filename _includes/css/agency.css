@@ -1026,7 +1026,9 @@ body {
 }
 
 @media(min-width:992px) {
-    padding-bottom: 90px;
+    body {
+        padding-bottom: 90px;
+    }
 }
 
 .important-figure {
