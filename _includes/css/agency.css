@@ -252,7 +252,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:1018px) {
+@media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -304,8 +304,22 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 90px;
     padding-bottom: 50px;
+}
+
+header .competences-intro-text {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+header .competences-intro-text .intro-heading {
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 35px;
 }
 
 header .intro-text .intro-lead-in {
@@ -320,9 +334,9 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 35px;
 }
 
 .subpages-header {
@@ -423,7 +437,12 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    header .competences-intro-text {
+        padding-top: 60px;
         padding-bottom: 80px;
     }
 
@@ -442,6 +461,23 @@ section h3.section-subheading {
         font-size: 60px;
         font-weight: 700;
         line-height: 60px;
+    }
+
+    header .competences-intro-text .intro-heading {
+        margin-bottom: 50px;
+        text-transform: uppercase;
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 60px;
+        font-weight: 700;
+        line-height: 60px;
+    }
+
+    header .competences-intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: {{ site.data.template.font.secondary }};
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
     }
 
     .home-header {
@@ -837,6 +873,11 @@ footer {
     padding: 25px 0;
     text-align: center;
     background-color: rgba(247, 247, 247, 1);
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-width: 100%;
+    position: absolute;
 }
 
 footer span.copyright {
@@ -979,6 +1020,13 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 160px;
+}
+
+@media(min-width:992px) {
+    padding-bottom: 90px;
 }
 
 .important-figure {
