@@ -4,7 +4,7 @@ layout: posts
 thumbnail: tmp-thumbnail.jpg
 alt: Grand Paris Express
 permalink: vie-associative/
-date: 2019-04-02
+date: 2019-02-28
 lang: fr
 description: Cette année, Ponts Études Projets (PEP) a effectué une étude pour une association œuvrant pour la réinsertion professionnelle des victimes de la prostitution. La structure avait besoin d'une part d’une stratégie économique viable pour pouvoir continuer son activité de manière pérenne et d'autre part de développer la prospection commerciale dans le secteur du BTP.
 ---

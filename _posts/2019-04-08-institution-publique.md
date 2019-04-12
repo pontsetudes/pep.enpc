@@ -4,7 +4,7 @@ layout: posts
 thumbnail: enpc-exterieur-thumbnail.jpg
 alt: ENPC
 permalink: institution-publique/
-date: 2019-04-05
+date: 2019-04-08
 lang: fr
 description: En 2017, Ponts Etudes Projets a pu s’investir dans une étude commanditée par une importante institution publique française. La mission avait pour objectif de proposer une méthode de scan des pièces d’identité qui permettrait de rentrer l’état civil de l’individu automatiquement dans une base de données, en utilisant un logiciel de reconnaissance de caractères.
 ---
