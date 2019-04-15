@@ -25,5 +25,10 @@
     {% endif %}
     <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     {% seo title=false %}
+    <meta property="og:website">
+    <meta property="og:image" content="{{ site.url }}/img/logo.png" />
+    <meta name="twitter:title"   content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.url }}/img/logo.png">
 </head>
 
