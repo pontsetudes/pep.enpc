@@ -23,28 +23,7 @@
     {% if site.google_analytics and jekyll.environment == 'production' %}
         {% include analytics.html %}
     {% endif %}
-    <title>
-        {%if page.title %}
-            {{ page.title }}
-        {% else %}
-            {{ site.title }}
-        {% endif %}
-     </title>
-    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
-    <meta property="og:locale" content="fr_FR">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:image" content="{{ site.url }}/img/logo.png" />
-    <meta property="og:site_name" content="Ponts Etudes Projets">
-    <meta property="article:publisher" content="http://www.facebook.com/junior.entreprise.ponts.etudes.projets" />
-    <meta property="article:author" content="https://www.facebook.com/junior.entreprise.ponts.etudes.projets" />
-    <meta property="article:published_time" content="{{ page.date }}" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@pontsetudes" />
-    <meta name="twitter:creator" content="@pontsetudes" />
-    <link rel="canonical" href="{{ page.url | prepend: site.url }}">
-    <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    {% seo title=false %}
 </head>
 
