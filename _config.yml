@@ -73,7 +73,7 @@ competences:
     slug: traduction-technique
     thumbnail: trad-thumbnail.jpg
     img: trad.jpg
-    atl: Traduction Technique
+    alt: Traduction Technique
     description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes ! Ce rayonnement international permet à notre Junior-Entreprise de se démarquer dans les projets de Traductions Techniques.
 
 # Build settings
