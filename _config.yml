@@ -44,13 +44,13 @@ competences:
     thumbnail: imi-thumbnail.jpg
     img: imi.jpg
     alt: Mathématiques et Informatique
-    description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus.
+    description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus. Notre Junior-Entreprise excelle dans la conception de sites webs et de programmes en tout genre, allant du domaine de la Vision Artificielle au Machine Learning.
   - title: Génie Civil <br> et Mécanique
     slug: genie-civil-mecanique
     thumbnail: bridge-millau-thumbnail.jpg
     img: bridge-millau.jpg
     alt: Génie Civil et Mécanique
-    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine.
+    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
   - title: Énergie, Transports <br> et Aménagements
     slug: energies-transports-amenagements
     thumbnail: vet-thumbnail.jpg
@@ -74,7 +74,7 @@ competences:
     thumbnail: trad-thumbnail.jpg
     img: trad.jpg
     atl: Traduction Technique
-    description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes !
+    description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes ! Ce rayonnement international permet à notre Junior-Entreprise de se démarquer dans les projets de Traductions Techniques.
 
 # Build settings
 markdown: kramdown

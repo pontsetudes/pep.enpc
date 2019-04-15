@@ -45,7 +45,7 @@ Let's focus on a practical example. Create a the file `/_posts/2019-10-12-statio
 title: PEP à la Station F
 layout: posts
 permalink: station-f/
-date: 2018-12-10
+date: 2018-10-12
 lang: fr
 description: "Aujourd'hui, les membres de PEP ont eu l'occasion de visiter la Station F : une expérience pleine de découvertes et de rencontres pour nos Junior-Entrepreuneurs !"
 ---
@@ -60,7 +60,7 @@ Ce mercredi 10 octobre, les membres de PEP ont eu la chance de visiter la Statio
 |              title             |    string on the tab bar       |
 |             layout             | keep this value equal to `posts`|
 |            permalink           | url path to the article        |
-|                date            |          YYYY-DD-MM            |
+|                date            |          YYYY-MM-DD            |
 |                lang            | keep this value equal to `fr`  |
 |            description         |   description of the article   |
 |       thumbnail (optional)      |  file_name of the thumbnail    |
