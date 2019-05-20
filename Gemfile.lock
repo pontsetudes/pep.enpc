@@ -3,11 +3,9 @@ GEM
   specs:
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
-    badgerbadgerbadger (0.15.0)
-      git (~> 1.2)
-      thor (~> 0.18)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
+    cssminify2 (2.0.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -15,12 +13,13 @@ GEM
     eventmachine (1.2.7-java)
     eventmachine (1.2.7-x64-mingw32)
     eventmachine (1.2.7-x86-mingw32)
+    execjs (2.7.0)
     ffi (1.10.0)
     ffi (1.10.0-java)
     ffi (1.10.0-x64-mingw32)
     ffi (1.10.0-x86-mingw32)
     forwardable-extended (2.6.0)
-    git (1.5.0)
+    htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
     http_parser.rb (0.6.0-java)
     i18n (0.9.5)
@@ -40,6 +39,12 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-minifier (0.1.10)
+      cssminify2 (~> 2.0)
+      htmlcompressor (~> 0.4)
+      jekyll (>= 3.5)
+      json-minify (~> 0.0.3)
+      uglifier (~> 4.1)
     jekyll-redirect-from (0.15.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
@@ -50,6 +55,9 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    json (2.2.0)
+    json-minify (0.0.3)
+      json (> 0)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.1.5)
@@ -75,11 +83,12 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    thor (0.20.3)
     tzinfo (2.0.0)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2019.1)
       tzinfo (>= 1.0.0)
+    uglifier (4.1.20)
+      execjs (>= 0.3.0, < 3)
 
 PLATFORMS
   java
@@ -89,9 +98,9 @@ PLATFORMS
   x86-mswin32
 
 DEPENDENCIES
-  badgerbadgerbadger
   jekyll (~> 3.8.4)
   jekyll-feed (~> 0.6)
+  jekyll-minifier
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
