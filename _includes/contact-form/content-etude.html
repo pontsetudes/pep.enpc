@@ -1,0 +1,23 @@
+<div class="container">
+    <div id="contact-form" class="container">
+        <div>
+            Vous désirez nous contacter pour un devis ? <br> Il vous suffit de remplir ce formulaire et notre équipe vous prend en charge !
+            <br><br>
+        </div>
+        <form id=”contact_form_data”>
+            <label for="entry.1528005357">Entreprise*</label>
+            <input type="text" id="entreprise" name="entry.1528005357" placeholder="Votre Entreprise...">
+            <label for="entry.1529761456">Nom et Prénom*</label>
+            <input type="text" id="name" name="entry.1529761456" placeholder="Votre nom et prénom...">
+            <label for="entry.1423871831">Email*</label>
+            <input type="text" id="email" name="entry.1423871831" placeholder="Votre email...">
+            <label for="entry.1298750786">Portable (Facultatif)</label>
+            <input type="text" id="phone-number" name="entry.1298750786" placeholder="Votre numéro...">
+            <label for="entry.274756931">Votre besoin*</label>
+            <textarea id="subject" name="entry.274756931" placeholder="Votre message à l'équipe..." style="height:200px"></textarea>
+            <input type="button" class="page-scroll btn btn-xl not-active-button" style="font-size: 1em; margin: 0px; padding: 10px; text-align: center;" value="Demander un devis" onclick="handleSubmitForm(this.form)"></input>
+            <div id="form-error"><p>Erreur - certains champs sont vides</p></div>
+            <div id="form-success"><p>Merci - Votre demande sera prise en compte au plus vite</p></div>
+        </form>
+    </div>
+</div>

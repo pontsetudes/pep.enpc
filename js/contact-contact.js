@@ -3,7 +3,7 @@ function postToGoogleForm(form) {
     $.ajax({
         "async": true,
         "crossDomain": true,
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLScjUrZoLPkUP-_y8bvIMwvvf0wPtyRERNpcZ6aNDW4W96r35w/formResponse",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd4eHjUO6muCiMEid8MfIImhYKXmZUCwEY91TZYcB0tZeYFmA/formResponse",
         "method": "POST",
         "processData": false,
         "contentType": false,
