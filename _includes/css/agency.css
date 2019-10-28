@@ -141,6 +141,10 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.btn-xl.useless-button {
+    background: #{{ site.data.template.color.secondary-dark}};
+}
+
 @media(min-width: 375px) {
     .btn-xl {
         padding: 15px 40px;
@@ -1118,9 +1122,7 @@ input[type=text], select, textarea {
     margin-bottom: 30px;
 }
 
-.useless-button {
-    background: #{{ site.data.template.color.secondary-dark}};
-}
+
 
 .not-active-button:focus {
     background: #{{ site.data.template.color.primary }};
