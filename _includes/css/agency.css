@@ -1183,3 +1183,21 @@ input[type=text], select, textarea {
         margin-top: 14px
     }
 }
+
+@media(max-width:635px) {
+    .intro-form-container {
+        padding-top: 50px;
+    }
+}
+
+@media(max-width:433px) {
+    .intro-form-container {
+        padding-top: 80px;
+    }
+}
+
+@media(max-width:374px) {
+    .intro-form-container {
+        padding-top: 70px;
+    }
+}
