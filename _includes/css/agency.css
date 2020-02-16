@@ -307,6 +307,23 @@ header {
     -o-background-size: cover;
 }
 
+.error-header {
+    height: 600px;
+    color: #000;
+    background: linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+    ), url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Le_pont_du_Gard_%288110616773%29.jpg/1024px-Le_pont_du_Gard_%288110616773%29.jpg');
+    /*url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/1024px-Pont_du_Gard_BLS.jpg');*/
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 header .intro-text {
     padding-top: 90px;
     padding-bottom: 50px;
