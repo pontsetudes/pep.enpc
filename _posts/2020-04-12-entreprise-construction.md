@@ -5,7 +5,7 @@ permalink: entreprise-construction/
 date: 2020-04-12
 lang: fr
 description: "Ponts Études Projets au service d’une entreprise de construction afin de mener à bien une étude bibliographique du potentiel mobilité !"
-thumbnail: entreprise-construction-thumbnail.png
+thumbnail: entreprise-construction-thumbnail.jpg
 alt: Entreprise construction
 ---
 
