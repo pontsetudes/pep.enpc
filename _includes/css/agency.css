@@ -1218,3 +1218,9 @@ input[type=text], select, textarea {
         padding-top: 70px;
     }
 }
+
+span {}
+.credits {
+    font-size: x-small;
+    font-style: italic;
+}

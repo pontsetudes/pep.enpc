@@ -17,19 +17,22 @@ En effet, c’est directement l’École des Ponts ParisTech qui a fait appel à
 L’École souhaitait innover en modifiant sa manière d’enseigner certains cours de mécanique. 
 Ces cours, souvent très théoriques et fortement mathématisés, sont enseignés depuis des dizaines d’années à l’École des Ponts.
 Laurent MAGHDISSIAN (le responsable académique du département GMM) désirait conserver l’excellence des cours de mécanique tout en les rendant plus modernes.
-
-<div style="text-align: center">
-<a title="Cjp24 [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]" 
-        href="https://commons.wikimedia.org/wiki/File:Three_point_flexural_test.jpg">
-    <img class="img-responsive img-centered" width="512" alt="Three point flexural test" 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Three_point_flexural_test.jpg/512px-Three_point_flexural_test.jpg">
-</a>
-</div>
+<br>
+<br>
+![Essai de flexion sur un matériau](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Three_point_flexural_test.jpg/512px-Three_point_flexural_test.jpg){:class="img-responsive img-centered"}
 <div>
     <p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">
-        Essai de flexion sur un matériau
+        Essai de flexion sur un matériau  <span class="credits">
+        - Credits : 
+        <a title="Cjp24 / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" 
+        href="https://commons.wikimedia.org/wiki/File:Three_point_flexural_test.jpg">
+        Cpj24 / CC BY-SA
+        </a>
+        </span>
     </p>
 </div>
+<br>
+
 Le département s’était penché en 2019 sur la création d’un *serious game*. 
 Un *serious game* est un jeu ayant un but sérieux (informatif, pédagogique, communicatif, etc). 
 Ici, le département cherchait un moyen ludique pour appliquer les cours théoriques de mécanique. 
