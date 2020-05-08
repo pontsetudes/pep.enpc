@@ -45,43 +45,71 @@ address:
   - line: Champs-sur-Marne
   - line: 77455 Marne-la-Vallée CEDEX 2
 
-competences:
-  - title: Informatique et Data Science
-    slug: math-info
-    thumbnail: imi-thumbnail.jpg
-    img: imi.jpg
-    alt: Mathématiques et Informatique
-    description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus. Notre Junior-Entreprise excelle dans la conception de sites webs et de programmes en tout genre, allant du domaine de la Vision Artificielle au Machine Learning.
-  - title: Génie Civil <br> et Mécanique
-    slug: genie-civil-mecanique
-    thumbnail: bridge-millau-thumbnail.jpg
-    img: bridge-millau.jpg
-    alt: Génie Civil et Mécanique
-    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
-  - title: Énergie, Transports <br> et Aménagements
-    slug: energies-transports-amenagements
-    thumbnail: vet-thumbnail.jpg
-    img: vet.jpg
-    alt: Énergie, Transports et Aménagements
-    description: Évaluer une empreinte carbone, mener une politique de transports à grande échelle, aménager des zones urbaines font partie des enseignements des étudiants du département Ville, Environnement, Transports de l’école. Ponts Études Projets, en accord avec les efforts mis en place par l’école pour conforter sa place de leader dans les domaines de développement durable et d’urbanisme, s’engage dans ces activités essentielles.
-  - title: Stratégie, Finance <br> et Économie
-    slug: strategie-finance-economie
-    thumbnail: segf-thumbnail.jpg
-    img: segf.jpg
-    alt: Stratégie, Finance et Économie
-    description: L’École des Ponts ParisTech est également très réputée dans les domaines de la finance et de l’économie, et forme de nombreux consultants et analystes. Chaque année, plus d’un tiers des étudiants quittent l’école pour le monde de l’économie, de la finance, de la stratégie ou du conseil.
-  - title: Génie Industriel <br> et Marketing
-    slug: genie-industriel
-    thumbnail: gi-thumbnail.jpg
-    img: gi.jpg
-    alt: Génie Industriel <br> et Marketing
-    description: Avant-gardiste dans le domaine, l’école des Ponts ParisTech s’est adaptée aux grands enjeux de la mondialisation et possède un département de génie industriel où sont formés des spécialistes de la supply chain, des enjeux globaux et de l’innovation de rupture.
-  - title: Traduction <br> Technique
-    slug: traduction-technique
-    thumbnail: trad-thumbnail.jpg
-    img: trad.jpg
-    alt: Traduction Technique
-    description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes ! Ce rayonnement international permet à notre Junior-Entreprise de se démarquer dans les projets de Traductions Techniques.
+# fields of expertise
+fields-expertise:
+  - title: Transition Écologique <br>& Durable
+    alt: Transition Écologique & Durable
+    thumbnail: eco-thumbnail.jpg
+    img: eco.jpg
+    slug: transition-eco
+    description: Faisabilité pour l’industrie et le génie civil, Dimensionnement, Calcul de structures, Études thermiques, Études bibliographiques, Aménagement du territoire, Conception/Optimisation de process...
+  - title: Transformation <br> Digitale
+    alt: Transformation Digitale
+    thumbnail: digital-thumbnail.jpg
+    img: digital.jpg
+    slug: transformation-digitale
+    description: Simulation et conception de produits, Développement de logiciels et d’interfaces, Conception et réalisation de sites internet, Études de marché, Réalisation et mise à jour de bases de données (Excel, Access...)...
+  - title: Stratégie <br>& Aide à la décision
+    thumbnail: strat-thumbnail.jpg
+    img: strat.jpg
+    alt: Stratégie & Aide à la décision
+    slug: strategie-decision
+    description: Économétrie, Élaboration de business plan, Gestion et optimisation de ressources, Traduction technique...
+
+
+# division of competences according to fields of expertise
+competence-strat:
+ - title: Stratégie, Finance <br> et Économie
+   slug: strategie-finance-economie
+   thumbnail: segf-thumbnail.jpg
+   img: segf.jpg
+   alt: Stratégie, Finance et Économie
+   description: L’École des Ponts ParisTech est également très réputée dans les domaines de la finance et de l’économie, et forme de nombreux consultants et analystes. Chaque année, plus d’un tiers des étudiants quittent l’école pour le monde de l’économie, de la finance, de la stratégie ou du conseil.
+ - title: Traduction <br> Technique
+   slug: traduction-technique
+   thumbnail: trad-thumbnail.jpg
+   img: trad.jpg
+   alt: Traduction Technique
+   description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes ! Ce rayonnement international permet à notre Junior-Entreprise de se démarquer dans les projets de Traductions Techniques.
+
+competence-transfo:
+ - title: Informatique et Data Science
+   slug: math-info
+   thumbnail: imi-thumbnail.jpg
+   img: imi.jpg
+   alt: Mathématiques et Informatique
+   description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus. Notre Junior-Entreprise excelle dans la conception de sites webs et de programmes en tout genre, allant du domaine de la Vision Artificielle au Machine Learning.
+ - title: Génie Industriel <br> et Marketing
+   slug: genie-industriel
+   thumbnail: gi-thumbnail.jpg
+   img: gi.jpg
+   alt: Génie Industriel <br> et Marketing
+   description: Avant-gardiste dans le domaine, l’école des Ponts ParisTech s’est adaptée aux grands enjeux de la mondialisation et possède un département de génie industriel où sont formés des spécialistes de la supply chain, des enjeux globaux et de l’innovation de rupture.
+
+competence-transition:
+ - title: Génie Civil <br> et Mécanique
+   slug: genie-civil-mecanique
+   thumbnail: bridge-millau-thumbnail.jpg
+   img: bridge-millau.jpg
+   alt: Génie Civil et Mécanique
+   description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
+ - title: Énergie, Transports <br> et Aménagements
+   slug: energies-transports-amenagements
+   thumbnail: vet-thumbnail.jpg
+   img: vet.jpg
+   alt: Énergie, Transports et Aménagements
+   description: Évaluer une empreinte carbone, mener une politique de transports à grande échelle, aménager des zones urbaines font partie des enseignements des étudiants du département Ville, Environnement, Transports de l’école. Ponts Études Projets, en accord avec les efforts mis en place par l’école pour conforter sa place de leader dans les domaines de développement durable et d’urbanisme, s’engage dans ces activités essentielles.
+
 
 # Build settings
 markdown: kramdown

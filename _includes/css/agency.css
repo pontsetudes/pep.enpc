@@ -378,6 +378,16 @@ header .intro-text .intro-heading {
     background-size: cover;
     -o-background-size: cover;
 }
+.competences-header.strat{
+    background: url('{{ site.baseurl }}/img/headers/domaine-comp/strat-bg.jpg');
+}
+.competences-header.digital{
+    background: url('{{ site.baseurl }}/img/headers/domaine-comp/digital-bg.jpg');
+}
+.competences-header.eco{
+    background: url('{{ site.baseurl }}/img/headers/domaine-comp/eco-bg.jpg');
+}
+
 
 .references-header {
     background: linear-gradient(

@@ -1,0 +1,21 @@
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading" style="padding-bottom: 20px;">Nos domaines de compétence</h2>
+            </div>
+        </div>
+        <div class="row">
+        {% for field in site.fields-expertise %}
+            <div class="col-md-4 col-sm-6 portfolio-item">
+                <a class="portfolio-link" onclick="document.location.href='/{{ field.slug }}';" class="portfolio-link" data-toggle="modal">
+                    <img src="{{ site.baseurl }}/img/fields/{{ field.thumbnail }}" class="img-responsive img-centered img-portfolio" alt="{{ field.alt }}">
+                </a>
+                <div class="portfolio-caption">
+                    <h4>{{ field.title }}</h4>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>
