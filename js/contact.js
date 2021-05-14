@@ -18,6 +18,7 @@ function clearForm(form) {
     form.elements["entry.1423871831"].value = "";
     form.elements["entry.1298750786"].value = "";
     form.elements["entry.274756931"].value = "";
+    form.elements["entry.428986930"].value = "";
 
 }
 
