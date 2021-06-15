@@ -25,7 +25,7 @@ alt: Audit 022
 ![Audit - Distanciel](/img/posts/audit-022-distanciel.jpg){:class="img-responsive img-centered"}
 <div>
     <p style="text-align: center; font-weight: 100; color: rgba(150, 150, 150, 1)">
-        Audit du mandat 023
+        Audit du mandat 022
     </p>
 </div>
 
