@@ -83,6 +83,61 @@ competences:
     alt: Traduction Technique
     description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes ! Ce rayonnement international permet à notre Junior-Entreprise de se démarquer dans les projets de Traductions Techniques.
 
+equipe:
+  - title: Président
+    slug: prez
+    img: prez.jpg
+    alt: Président
+  - title: Vice-Président
+    slug: v-prez
+    img: vprez.jpg
+    alt: Vice-Président
+  - title: Secrétaire Général
+    slug: secgen
+    img: secgen.jpg
+    alt: Secrétaire Général
+  - title: Trésorière
+    slug: trez
+    img: trez.jpg
+    alt: Trésorière
+  - title: Vice-Trésorière
+    slug: vtrez
+    img: vtrez.jpg
+    alt: Vice-Trésorière
+  - title: Directeur de projet
+    slug: dproj
+    img: dproj.jpg
+    alt: Directeur de Projet
+  - title: Chef de Projet
+    slug: chef1
+    img: chef1.jpg
+    alt: Chef de Projet
+  - title: Chef de Projet
+    slug: chef2
+    img: chef2.jpg
+    alt: Chef de Projet
+  - title: Chef de Projet
+    slug: chef3
+    img: chef3.jpg
+    alt: Chef de Projet
+  - title: Chef de Projet
+    slug: chef4
+    img: chef4.jpg
+    alt: Chef de Projet
+  - title: Responsable Qualité
+    slug: quali
+    img: quali.jpg
+    alt: Responsable Qualité
+  - title: Directeur des Systèmes <br> d'Information
+    slug: dsi
+    img: dsi.jpg
+    alt: Directeur des Systèmes d'Information
+  - title: Directrice communication
+    slug: com
+    img: com.jpg
+    alt: Directrice communication
+  
+
 # Build settings
 markdown: kramdown
 permalink: pretty
