@@ -30,8 +30,9 @@ var cbpAnimatedHeader = (function() {
 			classie.add( header, 'navbar-shrink' );
 		}
 		else {
+			if ($("li").hasClass("open")==false){
 			classie.remove( header, 'navbar-shrink' );
-		}
+		}}
 		didScroll = false;
 	}
 

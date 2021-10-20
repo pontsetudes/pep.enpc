@@ -6,7 +6,7 @@ alt: Passation
 permalink: passation-021/
 date: 2019-04-24
 lang: fr
-description: Mercredi 24 avril eut lieu la cérémonie de passation de Ponts Études Projets. Les deux mandats, entrant et sortant, se sont donc retrouvés à la Maison des Ponts. Ce fut l'occasion pour eux de retrouver des alumni et de discuter de leur expérience au sein de la Junior Entreprise. Au cours de la soirée les deux présidents ont présenté les nouveautés au sein de l'association ainsi qu'une nouvelle stratégie pour faire progresser celle-ci.
+description: Mercredi 24 avril eut lieu la cérémonie de passation de Ponts Études Projets. Les deux mandats, entrant et sortant, se sont donc retrouvés à la Maison des Ponts. Ce fut l'occasion pour eux de retrouver des alumni et de discuter de leur expérience au sein de la Junior Entreprise. 
 ---
 
 

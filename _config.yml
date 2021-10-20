@@ -88,54 +88,106 @@ equipe:
     slug: prez
     img: prez.jpg
     alt: Président
+    name: Timothé Catimel
+    description: Le président est le responsable légal de la Junior-Entreprise. À l’aide du bureau, il pilote l’association et tous ses pôles. Sa mission principale est donc de veiller au bon fonctionnement de chacun de ces pôles et plus globalement de la Junior-Entreprise.
+    mail: timothe.catimel@junior-pep.fr
+    in: https://www.linkedin.com/in/timoth%C3%A9catimel/
   - title: Vice-Président
     slug: v-prez
     img: vprez.jpg
     alt: Vice-Président
+    name: Nil Parent
+    description: Le vice-président travaille main dans la main avec le président. Il élabore la stratégie annuelle et gère les partenariats. Il doit aussi s'intéresser aux différents indicateurs de performance développés par le pôle qualité et assister les autres pôles de la Junior-Entreprise.
+    mail: nil.parent@junior-pep.fr
+    in: https://www.linkedin.com/in/nil-parent/
   - title: Secrétaire Général
     slug: secgen
     img: secgen.jpg
     alt: Secrétaire Général
+    name: Mathieu Harlay
+    description: Le secrétaire général est le responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, il participe au pilotage de l’association et de tous ses pôles. Il assure les tâches admi-nistratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
+    mail: mathieu.harlay@junior-pep.fr
+    in: https://www.linkedin.com/in/mathieu-harlay-b096371b9/
   - title: Trésorière
     slug: trez
     img: trez.jpg
     alt: Trésorière
+    name: Laëtitia Brodin
+    description: Le Trésorier gère le fonctionnement financier de la Junior-Entreprise. Engageant sa responsabilité civile et légale, il planifie et surveille le budget, s'occupe des comptes bancaires, déclare les impôts de la Junior-Entreprise et vérifie la comptabilité du Vice-Trésorier.
+    mail: laetitia.brodin@junior-pep.fr
+    in: https://www.linkedin.com/in/la%C3%ABtitia-brodin-5a7926201/
   - title: Vice-Trésorière
     slug: vtrez
     img: vtrez.jpg
     alt: Vice-Trésorière
+    name: Chloé Dujarrier
+    description: Le Vice-Trésorier est l'adjoint du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Il s’occupe aussi de l’archivage des documents.
+    mail: chloe.dujarrier@junior-pep.fr
+    in: https://www.linkedin.com/in/chlo%C3%A9-dujarrier-173460195/
   - title: Directeur de projet
     slug: dproj
     img: dproj.jpg
     alt: Directeur de Projet
+    name: Lilian Beye
+    mail: lilian.beye@junior-pep.fr
+    description: Le directeur de projet est à la tête du pôle étude et s’occupe d’organiser la prospection commerciale ainsi que d’encadrer les relations client-étudiant. Il a une vue d’ensemble sur les missions en cours et s’assure de leur bon déroulé tout comme de la bonne coordination des membres de son équipe.
+    in: https://www.linkedin.com/in/lilian-beye/
   - title: Chef de Projet
     slug: chef1
     img: chef1.jpg
     alt: Chef de Projet
+    name: Jérémie Lecoutre
+    description: Tout au long d'une étude, les chefs de projets, travaillant en binôme, sont les intermédiaires de référence entre le Client et le(s) étudiant(s) réalisateur(s) de l'étude. Ils suivent les étudiants tout au long de l'étude, du recrutement jusqu'à la clôture.
+    mail: jeremie.lecoutre@junior-pep.fr
+    in: https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-lecoutre-620a7b1bb/
   - title: Chef de Projet
     slug: chef2
     img: chef2.jpg
     alt: Chef de Projet
-  - title: Chef de Projet
+    name: Quentin Gaignard
+    description: Avant le début d’une étude, il est du ressort des chefs de projet de trouver les étudiants les plus qualifiés et répondant aux mieux aux exigences du Client. Les CVs et lettres de motivation des étudiants ayant répondu à l'annonce de l'étude permettent de ne garder que les meilleurs éléments.
+    mail: quentin.gaignard@junior-pep.fr
+    in: https://www.linkedin.com/in/quentin-gaignard-2a649b201/
+  - title: Cheffe de Projet
     slug: chef3
     img: chef3.jpg
-    alt: Chef de Projet
+    alt: Cheffe de Projet
+    name: Bao-Trân Truong
+    description: Le travail du chef de projet, c'est également d'entretenir le contact entre la Junior et les entreprises. Ils sont en permanence en relation avec des chefs d'entreprises ou de départements techniques pour comprendre leurs besoins et y apporter des solutions adaptées.
+    mail: bao-tran.truong@junior-pep.fr
+    in: https://www.linkedin.com/in/bao-tr%C3%A2n-truong-33912420a/
   - title: Chef de Projet
     slug: chef4
     img: chef4.jpg
     alt: Chef de Projet
+    name: Hector Danel
+    description: Les chefs de projet transmettent les  questions des étudiants, informent sur l'avancée de la mission, proposent et organisent des réunions en présence des deux partis pour une première rencontre ou encore pour une présentation des livrables.
+    mail: hactor.danel@junior-pep.fr
+    in: https://www.linkedin.com/in/hector-danel-4b7aa01ba/
   - title: Responsable Qualité
     slug: quali
     img: quali.jpg
     alt: Responsable Qualité
+    name: Paul Invernizzi
+    description: Le Responsable Qualité s’assure du bon fonctionnement des services de la Junior Entreprise. En relisant chaque document, il s’assure de leur conformité au cadre légal. Il se charge aussi de gérer les différents indicateurs de performance qui aideront la Junior Entreprise à améliorer ses services.
+    mail: paul.invernizzi@junior-pep.fr
+    in: https://www.linkedin.com/in/paul-invernizzi-47439a200/
   - title: Directeur des Systèmes <br> d'Information
     slug: dsi
     img: dsi.jpg
     alt: Directeur des Systèmes d'Information
+    name: Justin Capgras
+    description: Le DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
+    mail: justin.capgras@junior-pep.fr
+    in: https://www.linkedin.com/in/justin-capgras-9b4570200/
   - title: Directrice communication
     slug: com
     img: com.jpg
     alt: Directrice communication
+    name: Holly Healey
+    description: Le Directeur Communication est responsable de l’image interne et externe de PEP. Son travail consiste à élaborer des supports de communication (visuels, goodies), entretenir une activité sur les réseaux sociaux et maintenir le lien avec les Alumni et les autres Junior-Entreprises.
+    mail: holly.healey@junior-pep.fr
+    in: https://www.linkedin.com/in/holly-healey/
   
 
 # Build settings
