@@ -505,6 +505,11 @@ section h2.section-heading {
     }
 }
 
+.documents {
+    padding-top: 0px;
+    padding-bottom: 40px;
+}
+
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
@@ -1266,6 +1271,12 @@ body {
     margin: 0 auto;
     max-width: 900px;
 }
+
+.documents-container {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
 .portfolio-item:hover .img-centered {
     opacity: 0.8;
 }
