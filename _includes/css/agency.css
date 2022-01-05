@@ -196,7 +196,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-.navbar-default {
+.navbar-default { 
     border-color: transparent;
     background-color: #222;
 }
@@ -414,6 +414,20 @@ header .intro-text .intro-heading {
         rgba(0, 0, 0, 0.3), 
         rgba(0, 0, 0, 0.3)
     ),url('{{ site.baseurl }}/img/headers/missions-bg.jpg');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.identite-header {
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+    ),url('{{ site.baseurl }}/img/headers/identite.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
@@ -1410,3 +1424,100 @@ span {}
 .carousel-control.left, .carousel-control.right {
     z-index: auto;
   }
+
+.nk-cookie-banner {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 999;
+    border-radius: 0px;
+    display: none;
+  }
+
+.deg{desired_angle} {
+    transform: rotate({desired_angle}) translate(12em) rotate(-{desired_angle});
+}
+
+.circle-container {
+    position: relative;
+    width: 24em;
+    height: 24em;
+    padding: 2.8em;
+    border: dashed 1px;
+    border-radius: 50%;
+    margin: 1.75em auto 0;
+    margin-bottom: 90px;
+    margin-top: 60px;
+}
+.circle-container a {
+    display: block;
+    position: absolute;
+    margin: -2em;
+}
+
+.circle-container img { 
+    display: block; 
+    width: 100%;
+    background-color: white;
+}
+.center { 
+    width: 12em;
+    top: 32%; left: 35%;
+}
+.deg20 { 
+    transform: rotate(20deg) translate(12em) rotate(-20deg);
+    width: 4em; 
+    height: 4em;
+    top: 50%; left: 50%;
+    background-color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.deg90 { 
+    transform: rotate(90deg) translate(12em) rotate(-90deg);
+    width: 7em;
+    height: 4em; 
+    top: 50%; left: 45%;
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.deg160 { 
+    transform: rotate(160deg) translate(12em) rotate(-160deg);
+    width: 4em; 
+    height: 4em; 
+    top: 50%; left: 45%;
+    background-color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.deg225 { 
+    transform: rotate(225deg) translate(12em) rotate(-225deg);
+    width: 4em; 
+    height: 4em; 
+    top: 50%; left: 50%;
+    background-color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.deg315 { 
+    transform: rotate(315deg) translate(12em) rotate(-315deg); 
+    width: 4em; 
+    height: 4em;
+    top: 50%; left: 50%;
+    background-color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.imvalue{
+    width: 70px;
+    height: 70px;
+}
+
+.border-value{
+    border: solid 1px #8e3232;
+    border-radius: 50%;
+}
