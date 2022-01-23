@@ -52,140 +52,180 @@ competences:
     img: imi.jpg
     alt: Mathématiques et Informatique
     description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus. Notre Junior-Entreprise excelle dans la conception de sites webs et de programmes en tout genre, allant du domaine de la Vision Artificielle au Machine Learning.
+    title_en: COMPUTER AND DATA SCIENCE
+    description_en: Computer science is at the heart of the training provided at Les Ponts from the first year, extended by a master's degree in mathematical and computer engineering. The school's generalist training also enables students to adopt a global approach to a computer problem, and thus to carry out your most specialised projects. Our Junior-Enterprise excels in the design of websites and programs of all kinds, ranging from Artificial Vision to Machine Learning.
   - title: Génie Civil <br> et Mécanique
     slug: genie-civil-mecanique
     thumbnail: bridge-millau-thumbnail.jpg
     img: bridge-millau.jpg
     alt: Génie Civil et Mécanique
     description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
+    title_en: CIVIL ENGINEERING AND MECHANICS
+    description_en: With more than 250 years of experience in civil and mechanical engineering, École des Ponts ParisTech still trains engineers at the cutting edge of this field. Our Junior-Entrepreneurs will be able to guide you in your structural design or market research projects.
   - title: Énergie, Transports <br> et Aménagements
     slug: energies-transports-amenagements
     thumbnail: vet-thumbnail.jpg
     img: vet.jpg
     alt: Énergie, Transports et Aménagements
     description: Évaluer une empreinte carbone, mener une politique de transports à grande échelle, aménager des zones urbaines font partie des enseignements des étudiants du département Ville, Environnement, Transports de l’école. Ponts Études Projets, en accord avec les efforts mis en place par l’école pour conforter sa place de leader dans les domaines de développement durable et d’urbanisme, s’engage dans ces activités essentielles.
+    title_en: ENERGY, TRANSPORT AND DEVELOPMENT
+    description_en: Assessing a carbon footprint, conducting a large-scale transport policy, and planning urban areas are all part of the teaching of students in the school's City, Environment and Transport department. Ponts Études Projets, in line with the school's efforts to consolidate its leadership in the fields of sustainable development and urban planning, is involved in these essential activities.
   - title: Stratégie, Finance <br> et Économie
     slug: strategie-finance-economie
     thumbnail: segf-thumbnail.jpg
     img: segf.jpg
     alt: Stratégie, Finance et Économie
     description: L’École des Ponts ParisTech est également très réputée dans les domaines de la finance et de l’économie, et forme de nombreux consultants et analystes. Chaque année, plus d’un tiers des étudiants quittent l’école pour le monde de l’économie, de la finance, de la stratégie ou du conseil.
+    title_en: STRATEGY, FINANCE AND ECONOMICS
+    description_en: École des Ponts ParisTech is also very well known in the fields of finance and economics, and trains many consultants and analysts. Each year, more than a third of students leave the school for the world of economics, finance, strategy or consulting.
   - title: Génie Industriel <br> et Marketing
     slug: genie-industriel
     thumbnail: gi-thumbnail.jpg
     img: gi.jpg
     alt: Génie Industriel <br> et Marketing
     description: Avant-gardiste dans le domaine, l’école des Ponts ParisTech s’est adaptée aux grands enjeux de la mondialisation et possède un département de génie industriel où sont formés des spécialistes de la supply chain, des enjeux globaux et de l’innovation de rupture.
+    title_en: INDUSTRIAL ENGINEERING AND MARKETING
+    description_en: A pioneer in the field, the Ecole des Ponts ParisTech has adapted to the major challenges of globalisation and created a department of industrial engineering where specialists in supply chain, global issues and disruptive innovation are trained.
   - title: Traduction <br> Technique
     slug: traduction-technique
     thumbnail: trad-thumbnail.jpg
     img: trad.jpg
     alt: Traduction Technique
     description: Ponts Etudes Projets, avec son cortège d’élèves étrangers (40% de la promotion), est à même de traduire tout document technique dans plus de 15 langues différentes ! Ce rayonnement international permet à notre Junior-Entreprise de se démarquer dans les projets de Traductions Techniques.
+    title_en: TECHNICAL TRANSLATION
+    description_en: Ponts Études Projets, with its foreign students (40% of the graduates), is able to translate any technical document in more than 15 different languages! This international scope allows our Junior-Enterprise to stand out in Technical Translation projects.
+
+
 
 equipe:
   - title: Président
+    title_en: President
     slug: prez
     img: prez.jpg
     alt: Président
     name: Timothé Catimel
     description: Le président est le responsable légal de la Junior-Entreprise. À l’aide du bureau, il pilote l’association et tous ses pôles. Sa mission principale est donc de veiller au bon fonctionnement de chacun de ces pôles et plus globalement de la Junior-Entreprise.
+    description_en: The president is the legal responsible of the Junior-Enterprise. With the help of the office, he manages the association and all its units. His main mission is to ensure the good functioning of each of these units and more globally of the Junior-Enterprise.
     mail: timothe.catimel@junior-pep.fr
     in: https://www.linkedin.com/in/timoth%C3%A9catimel/
   - title: Vice-Président
+    title_en: Vice-President
     slug: v-prez
     img: vprez.jpg
     alt: Vice-Président
     name: Nil Parent
     description: Le vice-président travaille main dans la main avec le président. Il élabore la stratégie annuelle et gère les partenariats. Il doit aussi s'intéresser aux différents indicateurs de performance développés par le pôle qualité et assister les autres pôles de la Junior-Entreprise.
+    description_en: The Vice-President works hand in hand with the President. He develops the annual strategy and manages the partnerships. He also has to take care of the different performance indicators developed by the quality division and assist the other units of the Junior-Enterprise.
     mail: nil.parent@junior-pep.fr
     in: https://www.linkedin.com/in/nil-parent/
   - title: Secrétaire Général
+    title_en: Secretary General
     slug: secgen
     img: secgen.jpg
     alt: Secrétaire Général
     name: Mathieu Harlay
     description: Le secrétaire général est le responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, il participe au pilotage de l’association et de tous ses pôles. Il assure les tâches admi-nistratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
+    description_en: The secretary general is in charge of the associative management of the Junior-Enterprise. Member of the board, he participates in the management of the association and all its units. He takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
     mail: mathieu.harlay@junior-pep.fr
     in: https://www.linkedin.com/in/mathieu-harlay-b096371b9/
   - title: Trésorière
+    title_en: Treasurer
     slug: trez
     img: trez.jpg
     alt: Trésorière
     name: Laëtitia Brodin
     description: Le Trésorier gère le fonctionnement financier de la Junior-Entreprise. Engageant sa responsabilité civile et légale, il planifie et surveille le budget, s'occupe des comptes bancaires, déclare les impôts de la Junior-Entreprise et vérifie la comptabilité du Vice-Trésorier.
+    description_en: The Treasurer manages the financial functioning of the Junior-Enterprise. He/she is responsible for planning and monitoring the budget, managing the bank accounts, declaring the taxes of the Junior-Enterprise and checking the accounting of the Vice-Treasurer.
     mail: laetitia.brodin@junior-pep.fr
     in: https://www.linkedin.com/in/la%C3%ABtitia-brodin-5a7926201/
   - title: Vice-Trésorière
+    title_en: Vice-Treasurer
     slug: vtrez
     img: vtrez.jpg
     alt: Vice-Trésorière
     name: Chloé Dujarrier
     description: Le Vice-Trésorier est l'adjoint du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Il s’occupe aussi de l’archivage des documents.
+    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. His main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. He also takes care of the storage of the documents.
     mail: chloe.dujarrier@junior-pep.fr
     in: https://www.linkedin.com/in/chlo%C3%A9-dujarrier-173460195/
   - title: Directeur de projet
+    title_en: Head of project managers
     slug: dproj
     img: dproj.jpg
     alt: Directeur de Projet
     name: Lilian Beye
     mail: lilian.beye@junior-pep.fr
     description: Le directeur de projet est à la tête du pôle étude et s’occupe d’organiser la prospection commerciale ainsi que d’encadrer les relations client-étudiant. Il a une vue d’ensemble sur les missions en cours et s’assure de leur bon déroulé tout comme de la bonne coordination des membres de son équipe.
+    description_en: The head of project managers heads the business unit and is responsible for organising business development and managing student-client relations. He/she has an overview of the missions in progress and ensures that they run smoothly and that the members of his/her team are well coordinated.
     in: https://www.linkedin.com/in/lilian-beye/
   - title: Chef de Projet
+    title_en: Project Manager
     slug: chef1
     img: chef1.jpg
     alt: Chef de Projet
     name: Jérémie Lecoutre
     description: Tout au long d'une étude, les chefs de projets, travaillant en binôme, sont les intermédiaires de référence entre le Client et le(s) étudiant(s) réalisateur(s) de l'étude. Ils suivent les étudiants tout au long de l'étude, du recrutement jusqu'à la clôture.
+    description_en: Throughout a study, the project managers, working in pairs, are the intermediaries of reference between the Client and the student(s) carrying out the study. They follow the students throughout the study, from recruitment to completion.
     mail: jeremie.lecoutre@junior-pep.fr
     in: https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-lecoutre-620a7b1bb/
   - title: Chef de Projet
+    title_en: Project Manager
     slug: chef2
     img: chef2.jpg
     alt: Chef de Projet
     name: Quentin Gaignard
     description: Avant le début d’une étude, il est du ressort des chefs de projet de trouver les étudiants les plus qualifiés et répondant aux mieux aux exigences du Client. Les CVs et lettres de motivation des étudiants ayant répondu à l'annonce de l'étude permettent de ne garder que les meilleurs éléments.
+    description_en: Before the start of a study, it is the responsibility of the project managers to find the most qualified students who best meet the Client's requirements. The CVs and cover letters of the students who responded to the study advertisement are used to select only the best candidates.
     mail: quentin.gaignard@junior-pep.fr
     in: https://www.linkedin.com/in/quentin-gaignard-2a649b201/
   - title: Cheffe de Projet
+    title_en: Project Manager
     slug: chef3
     img: chef3.jpg
     alt: Cheffe de Projet
     name: Bao-Trân Truong
     description: Le travail du chef de projet, c'est également d'entretenir le contact entre la Junior et les entreprises. Ils sont en permanence en relation avec des chefs d'entreprises ou de départements techniques pour comprendre leurs besoins et y apporter des solutions adaptées.
+    description_en: The project manager's job is also to maintain contact between the Junior and the companies. They are in constant contact with the heads of companies or technical departments to understand their needs and provide them with appropriate solutions.
     mail: bao-tran.truong@junior-pep.fr
     in: https://www.linkedin.com/in/bao-tr%C3%A2n-truong-33912420a/
   - title: Chef de Projet
+    title_en: Project Manager
     slug: chef4
     img: chef4.jpg
     alt: Chef de Projet
     name: Hector Danel
     description: Les chefs de projet transmettent les  questions des étudiants, informent sur l'avancée de la mission, proposent et organisent des réunions en présence des deux partis pour une première rencontre ou encore pour une présentation des livrables.
+    description_en: The project managers transmit the students' questions, inform on the progress of the mission, propose and organise meetings with both parties for a first meeting or for a presentation of the deliverables.
     mail: hactor.danel@junior-pep.fr
     in: https://www.linkedin.com/in/hector-danel-4b7aa01ba/
   - title: Responsable Qualité
+    title_en: Quality Manager
     slug: quali
     img: quali.jpg
     alt: Responsable Qualité
     name: Paul Invernizzi
     description: Le Responsable Qualité s’assure du bon fonctionnement des services de la Junior Entreprise. En relisant chaque document, il s’assure de leur conformité au cadre légal. Il se charge aussi de gérer les différents indicateurs de performance qui aideront la Junior Entreprise à améliorer ses services.
+    description_en: The Quality Manager ensures that the services of the Junior Entreprise are working properly. By re-reading each document, he makes sure that they comply with the legal framework. He is also in charge of managing the different performance indicators that will help the Junior Entreprise to improve its services.
     mail: paul.invernizzi@junior-pep.fr
     in: https://www.linkedin.com/in/paul-invernizzi-47439a200/
   - title: Directeur des Systèmes <br> d'Information
+    title_en: Director of Information Systems
     slug: dsi
     img: dsi.jpg
     alt: Directeur des Systèmes d'Information
     name: Justin Capgras
     description: Le DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
+    description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. He also assists the quality manager in the review of the study documents.
     mail: justin.capgras@junior-pep.fr
     in: https://www.linkedin.com/in/justin-capgras-9b4570200/
   - title: Directrice communication
+    title_en: Director of Communications
     slug: com
     img: com.jpg
     alt: Directrice communication
     name: Holly Healey
     description: Le Directeur Communication est responsable de l’image interne et externe de PEP. Son travail consiste à élaborer des supports de communication (visuels, goodies), entretenir une activité sur les réseaux sociaux et maintenir le lien avec les Alumni et les autres Junior-Entreprises.
+    description_en: The Communication Director is responsible for the internal and external image of PEP. His/her job is to develop communication materials (visuals, goodies), maintain an activity on social networks and maintain the link with the Alumni and other Junior-Enterprises.
     mail: holly.healey@junior-pep.fr
     in: https://www.linkedin.com/in/holly-healey/
   

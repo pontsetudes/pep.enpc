@@ -1,0 +1,25 @@
+<div class="container">
+    <div id="contact-form" class="container">
+        <div id=”intro" class="intro-form-container">
+            You can contact us whith our <a href="mailto:contact@junior-pep.fr">email adress</a> or whith the following form:
+            <br><br>
+        </div>
+        <form id=”contact_form_data”>
+            <label for="entry.1528005357">Company*</label>
+            <input type="text" id="entreprise" name="entry.1528005357" placeholder="Your company...">
+            <label for="entry.1529761456">First Name and surname*</label>
+            <input type="text" id="name" name="entry.1529761456" placeholder="Your name and surname...">
+            <label for="entry.1423871831">Email*</label>
+            <input type="text" id="email" name="entry.1423871831" placeholder="Your email adress...">
+            <label for="entry.1298750786">Phone number (optional)</label>
+            <input type="text" id="phone-number" name="entry.1298750786" placeholder="Your phone number...">
+            <label for="entry.274756931">Your need*</label>
+            <textarea id="subject" name="entry.274756931" placeholder="Your message to the team..." style="height:200px"></textarea>
+            <label for="entry.428986930">How have you heard about us ?</label>
+            <input type="text" id="source-connaissance" name="entry.428986930" placeholder="Your answer...">
+            <input type="button" class="page-scroll btn btn-xl not-active-button" style="font-size: 1em; margin: 0px; padding: 10px; text-align: center;" value="Send the request" onclick="handleSubmitForm(this.form)"></input>
+            <div id="form-error"><p>Error - some fields are empty</p></div>
+            <div id="form-success"><p>Thank you - Your request will be considered as soon as possible</p></div>
+        </form>
+    </div>
+</div>
