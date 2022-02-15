@@ -423,11 +423,11 @@ header .intro-text .intro-heading {
     -o-background-size: cover;
 }
 
-.identite-header {
+.presentation-header {
     background: linear-gradient(
         rgba(0, 0, 0, 0.3), 
         rgba(0, 0, 0, 0.3)
-    ),url('{{ site.baseurl }}/img/headers/identite.jpg');
+    ),url('{{ site.baseurl }}/img/headers/presentation-bg.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
@@ -1541,4 +1541,16 @@ span {}
 
 .lang-button:hover {
     color: #8e3232;
+}
+
+@media(max-width:600px) {
+    .tiny-screen {
+        display:none;
+    }
+}
+
+@media(min-width:600px) {
+    .big-screen {
+        display:none;
+    }
 }
