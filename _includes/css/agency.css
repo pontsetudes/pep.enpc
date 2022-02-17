@@ -272,21 +272,21 @@ fieldset[disabled] .btn-xl.active {
     color: #ffffff;
 }
 
-@media(min-width:768px) {
+@media(min-width:768px) { 
     .navbar-default {
         padding: 25px 0;
         border: 0;
         background-color: transparent;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
+        -webkit-transition: padding 1s;
+        -moz-transition: padding 1s;
+        transition: padding 1s;
     }
 
     .navbar-default .navbar-brand {
         font-size: 2em;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
-        transition: all .3s;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        transition: all 1s;
     }
 
     .navbar-default .navbar-nav>.active>a {
@@ -1473,7 +1473,7 @@ span {}
     background-color: white;
 }
 .center { 
-    width: 12em;
+    width: 12em; 
     top: 32%; left: 35%;
 }
 .deg20 { 
