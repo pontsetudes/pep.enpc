@@ -103,131 +103,141 @@ equipe:
     slug: prez
     img: prez.jpg
     alt: Président
-    name: Timothé Catimel
+    name: Guillaume de Milleville
     description: Le président est le responsable légal de la Junior-Entreprise. À l’aide du bureau, il pilote l’association et tous ses pôles. Sa mission principale est donc de veiller au bon fonctionnement de chacun de ces pôles et plus globalement de la Junior-Entreprise.
     description_en: The president is the legal responsible of the Junior-Enterprise. With the help of the office, he manages the association and all its units. His main mission is to ensure the good functioning of each of these units and more globally of the Junior-Enterprise.
-    mail: timothe.catimel@junior-pep.fr
-    in: https://www.linkedin.com/in/timoth%C3%A9catimel/
-  - title: Vice-Président
+    mail: guillaume.de-milleville@junior-pep.fr
+    in: https://www.linkedin.com/in/guillaume-de-milleville/
+  - title: Vice-Présidente
     title_en: Vice-President
     slug: v-prez
     img: vprez.jpg
-    alt: Vice-Président
-    name: Nil Parent
-    description: Le vice-président travaille main dans la main avec le président. Il élabore la stratégie annuelle et gère les partenariats. Il doit aussi s'intéresser aux différents indicateurs de performance développés par le pôle qualité et assister les autres pôles de la Junior-Entreprise.
-    description_en: The Vice-President works hand in hand with the President. He develops the annual strategy and manages the partnerships. He also has to take care of the different performance indicators developed by the quality division and assist the other units of the Junior-Enterprise.
-    mail: nil.parent@junior-pep.fr
-    in: https://www.linkedin.com/in/nil-parent/
-  - title: Secrétaire Général
+    alt: Vice-Présidente
+    name: Juliana Billon
+    description: La vice-présidente travaille main dans la main avec le président. Elle élabore la stratégie annuelle et gère les partenariats. Elle doit aussi s'intéresser aux différents indicateurs de performance développés par le pôle qualité et assister les autres pôles de la Junior-Entreprise.
+    description_en: The Vice-President works hand in hand with the President. She develops the annual strategy and manages the partnerships. She also has to take care of the different performance indicators developed by the quality division and assist the other units of the Junior-Enterprise.
+    mail: juliana.billon@junior-pep.fr
+    in: https://www.linkedin.com/in/juliana-billon-4b4834212/
+  - title: Secrétaire Générale
     title_en: Secretary General
     slug: secgen
     img: secgen.jpg
-    alt: Secrétaire Général
-    name: Mathieu Harlay
-    description: Le secrétaire général est le responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, il participe au pilotage de l’association et de tous ses pôles. Il assure les tâches admi-nistratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
-    description_en: The secretary general is in charge of the associative management of the Junior-Enterprise. Member of the board, he participates in the management of the association and all its units. He takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
-    mail: mathieu.harlay@junior-pep.fr
-    in: https://www.linkedin.com/in/mathieu-harlay-b096371b9/
-  - title: Trésorière
+    alt: Secrétaire Générale
+    name: Thaïs Souyri
+    description: La secrétaire générale est la responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, elle participe au pilotage de l’association et de tous ses pôles. Elle assure les tâches admi-nistratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
+    description_en: The secretary general is in charge of the associative management of the Junior-Enterprise. Member of the board, she participates in the management of the association and all its units. She takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
+    mail: thais.souyri@junior-pep.fr
+    in: https://www.linkedin.com/in/tha%C3%AFs-souyri/
+  - title: Trésorier
     title_en: Treasurer
     slug: trez
     img: trez.jpg
-    alt: Trésorière
-    name: Laëtitia Brodin
-    description: Le Trésorier gère le fonctionnement financier de la Junior-Entreprise. Engageant sa responsabilité civile et légale, il planifie et surveille le budget, s'occupe des comptes bancaires, déclare les impôts de la Junior-Entreprise et vérifie la comptabilité du Vice-Trésorier.
-    description_en: The Treasurer manages the financial functioning of the Junior-Enterprise. He/she is responsible for planning and monitoring the budget, managing the bank accounts, declaring the taxes of the Junior-Enterprise and checking the accounting of the Vice-Treasurer.
-    mail: laetitia.brodin@junior-pep.fr
-    in: https://www.linkedin.com/in/la%C3%ABtitia-brodin-5a7926201/
+    alt: Trésorier
+    name: Léandre Le Clerc
+    description: Le Trésorier gère le fonctionnement financier de la Junior-Entreprise. Engageant sa responsabilité civile et légale, il planifie et surveille le budget, s'occupe des comptes bancaires, déclare les impôts de la Junior-Entreprise et vérifie la comptabilité de la Vice-Trésorière.
+    description_en: The Treasurer manages the financial functioning of the Junior-Enterprise. He is responsible for planning and monitoring the budget, managing the bank accounts, declaring the taxes of the Junior-Enterprise and checking the accounting of the Vice-Treasurer.
+    mail: leandre.le-clerc@junior-pep.fr
+    in: https://www.linkedin.com/in/l%C3%A9andre-le-clerc-b7262a1a1/
   - title: Vice-Trésorière
     title_en: Vice-Treasurer
     slug: vtrez
     img: vtrez.jpg
     alt: Vice-Trésorière
-    name: Chloé Dujarrier
-    description: Le Vice-Trésorier est l'adjoint du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Il s’occupe aussi de l’archivage des documents.
-    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. His main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. He also takes care of the storage of the documents.
-    mail: chloe.dujarrier@junior-pep.fr
-    in: https://www.linkedin.com/in/chlo%C3%A9-dujarrier-173460195/
+    name: Cécile Daniellou
+    description: La Vice-Trésorière est l'adjointe du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Elle s’occupe aussi de l’archivage des documents.
+    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. Her main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. She also takes care of the storage of the documents.
+    mail: cecile.daniellou@junior-pep.fr
+    in: https://www.linkedin.com/in/cecile-daniellou/
   - title: Directeur de projet
     title_en: Head of project managers
     slug: dproj
     img: dproj.jpg
     alt: Directeur de Projet
-    name: Lilian Beye
-    mail: lilian.beye@junior-pep.fr
+    name: Ryan Bou Obeid
+    mail: ryan.bou-obeid@junior-pep.fr
     description: Le directeur de projet est à la tête du pôle étude et s’occupe d’organiser la prospection commerciale ainsi que d’encadrer les relations client-étudiant. Il a une vue d’ensemble sur les missions en cours et s’assure de leur bon déroulé tout comme de la bonne coordination des membres de son équipe.
-    description_en: The head of project managers heads the business unit and is responsible for organising business development and managing student-client relations. He/she has an overview of the missions in progress and ensures that they run smoothly and that the members of his/her team are well coordinated.
-    in: https://www.linkedin.com/in/lilian-beye/
+    description_en: The head of project managers heads the business unit and is responsible for organising business development and managing student-client relations. He has an overview of the missions in progress and ensures that they run smoothly and that the members of his team are well coordinated.
+    in: https://www.linkedin.com/in/ryan-bou-obeid/
   - title: Chef de Projet
     title_en: Project Manager
     slug: chef1
     img: chef1.jpg
     alt: Chef de Projet
-    name: Jérémie Lecoutre
+    name: Jacques Morin
     description: Tout au long d'une étude, les chefs de projets, travaillant en binôme, sont les intermédiaires de référence entre le Client et le(s) étudiant(s) réalisateur(s) de l'étude. Ils suivent les étudiants tout au long de l'étude, du recrutement jusqu'à la clôture.
     description_en: Throughout a study, the project managers, working in pairs, are the intermediaries of reference between the Client and the student(s) carrying out the study. They follow the students throughout the study, from recruitment to completion.
-    mail: jeremie.lecoutre@junior-pep.fr
-    in: https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-lecoutre-620a7b1bb/
+    mail: jacques.morin@junior-pep.fr
+    in: https://www.linkedin.com/in/jacques-morin-653967223/
   - title: Chef de Projet
     title_en: Project Manager
     slug: chef2
     img: chef2.jpg
     alt: Chef de Projet
-    name: Quentin Gaignard
+    name: Achraf Ouboujemaa
     description: Avant le début d’une étude, il est du ressort des chefs de projet de trouver les étudiants les plus qualifiés et répondant aux mieux aux exigences du Client. Les CVs et lettres de motivation des étudiants ayant répondu à l'annonce de l'étude permettent de ne garder que les meilleurs éléments.
     description_en: Before the start of a study, it is the responsibility of the project managers to find the most qualified students who best meet the Client's requirements. The CVs and cover letters of the students who responded to the study advertisement are used to select only the best candidates.
-    mail: quentin.gaignard@junior-pep.fr
-    in: https://www.linkedin.com/in/quentin-gaignard-2a649b201/
-  - title: Cheffe de Projet
+    mail: achraf.ouboujemaa@junior-pep.fr
+    in: https://www.linkedin.com/in/achraf-ouboujemaa-8613241b7/
+  - title: Chef de Projet
     title_en: Project Manager
     slug: chef3
     img: chef3.jpg
-    alt: Cheffe de Projet
-    name: Bao-Trân Truong
+    alt: Chef de Projet
+    name: Emile Belin
     description: Le travail du chef de projet, c'est également d'entretenir le contact entre la Junior et les entreprises. Ils sont en permanence en relation avec des chefs d'entreprises ou de départements techniques pour comprendre leurs besoins et y apporter des solutions adaptées.
     description_en: The project manager's job is also to maintain contact between the Junior and the companies. They are in constant contact with the heads of companies or technical departments to understand their needs and provide them with appropriate solutions.
-    mail: bao-tran.truong@junior-pep.fr
-    in: https://www.linkedin.com/in/bao-tr%C3%A2n-truong-33912420a/
-  - title: Chef de Projet
+    mail: emile.belin@junior-pep.fr
+    in: https://www.linkedin.com/in/emile-belin-898160a7/
+  - title: Cheffe de Projet
     title_en: Project Manager
     slug: chef4
     img: chef4.jpg
-    alt: Chef de Projet
-    name: Hector Danel
+    alt: Cheffe de Projet
+    name: Maude Zerhouni
     description: Les chefs de projet transmettent les  questions des étudiants, informent sur l'avancée de la mission, proposent et organisent des réunions en présence des deux partis pour une première rencontre ou encore pour une présentation des livrables.
     description_en: The project managers transmit the students' questions, inform on the progress of the mission, propose and organise meetings with both parties for a first meeting or for a presentation of the deliverables.
-    mail: hactor.danel@junior-pep.fr
-    in: https://www.linkedin.com/in/hector-danel-4b7aa01ba/
+    mail: maude.zerhouni@junior-pep.fr
+    in: https://www.linkedin.com/in/maude-zerhouni/
+  - title: Chef de Projet
+    title_en: Project Manager
+    slug: chef5
+    img: chef5.jpg
+    alt: Chef de Projet
+    name: Clément Mulet
+    description: Il est du ressort du chef de projet d'émettre les documents qui encadrent le suivi de mission aux parties prenantes. Il va également controler le respect des processus de suivi d'étude afin de garantir des livrables exacts et de qualité.
+    description_en: It is up to the project manager to deliver the documents that frame the mission follow-up to the concerned parties. He/she will also monitor compliance with the study monitoring process to ensure accurate and qualitative deliverables.
+    mail: clement.mulet@junior-pep.fr
+    in: https://www.linkedin.com/in/clement-mulet/
   - title: Responsable Qualité
     title_en: Quality Manager
     slug: quali
     img: quali.jpg
     alt: Responsable Qualité
-    name: Paul Invernizzi
+    name: Anaximandre Rivet-Tissot
     description: Le Responsable Qualité s’assure du bon fonctionnement des services de la Junior Entreprise. En relisant chaque document, il s’assure de leur conformité au cadre légal. Il se charge aussi de gérer les différents indicateurs de performance qui aideront la Junior Entreprise à améliorer ses services.
     description_en: The Quality Manager ensures that the services of the Junior Entreprise are working properly. By re-reading each document, he makes sure that they comply with the legal framework. He is also in charge of managing the different performance indicators that will help the Junior Entreprise to improve its services.
-    mail: paul.invernizzi@junior-pep.fr
-    in: https://www.linkedin.com/in/paul-invernizzi-47439a200/
+    mail: anaximandre.rivet-tissot@junior-pep.fr
+    in: https://www.linkedin.com/in/anaximandre-rivet-tissot-4b335a234/
   - title: Directeur des Systèmes <br> d'Information
     title_en: Director of Information Systems
     slug: dsi
     img: dsi.jpg
     alt: Directeur des Systèmes d'Information
-    name: Justin Capgras
+    name: Martin Boussemard
     description: Le DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
     description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. He also assists the quality manager in the review of the study documents.
-    mail: justin.capgras@junior-pep.fr
-    in: https://www.linkedin.com/in/justin-capgras-9b4570200/
-  - title: Directrice communication
+    mail: martin.boussemard@junior-pep.fr
+    in: https://www.linkedin.com/in/martin-boussemard-127610234/
+  - title: Directeur communication
     title_en: Director of Communications
     slug: com
     img: com.jpg
     alt: Directrice communication
-    name: Holly Healey
+    name: Gabriel Tang
     description: Le Directeur Communication est responsable de l’image interne et externe de PEP. Son travail consiste à élaborer des supports de communication (visuels, goodies), entretenir une activité sur les réseaux sociaux et maintenir le lien avec les Alumni et les autres Junior-Entreprises.
-    description_en: The Communication Director is responsible for the internal and external image of PEP. His/her job is to develop communication materials (visuals, goodies), maintain an activity on social networks and maintain the link with the Alumni and other Junior-Enterprises.
-    mail: holly.healey@junior-pep.fr
-    in: https://www.linkedin.com/in/holly-healey/
+    description_en: The Communication Director is responsible for the internal and external image of PEP. His job is to develop communication materials (visuals, goodies), maintain an activity on social networks and maintain the link with the Alumni and other Junior-Enterprises.
+    mail: gabriel.tang@junior-pep.fr
+    in: https://www.linkedin.com/in/gabriel-tang-4a6778223/
   
 
 # Build settings
