@@ -3,7 +3,7 @@ function postToGoogleForm(form) {
     $.ajax({
         "async": true,
         "crossDomain": true,
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd4eHjUO6muCiMEid8MfIImhYKXmZUCwEY91TZYcB0tZeYFmA/formResponse",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeUb3ft-S73SPerplqgTMDfoFjYkwPxQjgtawNhMoOuoqR6GA/formResponse",
         "method": "POST",
         "processData": false,
         "contentType": false,
@@ -18,6 +18,7 @@ function clearForm(form) {
     form.elements["entry.1423871831"].value = "";
     form.elements["entry.1298750786"].value = "";
     form.elements["entry.274756931"].value = "";
+    form.elements["entry.428986930"].value = "";
 
 }
 
@@ -32,6 +33,9 @@ function validateForm(form) {
        return false;
     }
     if (form.elements["entry.274756931"].value == "") {
+        return false;
+    }
+    if (form.elements["entry.428986930"].value == "") {
         return false;
     }
     return true;
