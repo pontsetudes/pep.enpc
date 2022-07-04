@@ -13,29 +13,29 @@ function postToGoogleForm(form) {
 }
 
 function clearForm(form) {
-    form.elements["entry.1528005357"].value = "";
-    form.elements["entry.1529761456"].value = "";
-    form.elements["entry.1423871831"].value = "";
-    form.elements["entry.1298750786"].value = "";
-    form.elements["entry.274756931"].value = "";
-    form.elements["entry.428986930"].value = "";
+    form.elements["entry.1951718622"].value = "";
+    form.elements["entry.396007678"].value = "";
+    form.elements["entry.1332571731"].value = "";
+    form.elements["entry.216023587"].value = "";
+    form.elements["entry.383904697"].value = "";
+    form.elements["entry.1699257137"].value = "";
 
 }
 
 function validateForm(form) {
-    if (form.elements["entry.1528005357"].value == "") {
+    if (form.elements["entry.1951718622"].value == "") {
        return false;
     }
-    if (form.elements["entry.1529761456"].value == "") {
+    if (form.elements["entry.396007678"].value == "") {
        return false;
     }
-    if (form.elements["entry.1423871831"].value == "") {
+    if (form.elements["entry.1332571731"].value == "") {
        return false;
     }
-    if (form.elements["entry.274756931"].value == "") {
+    if (form.elements["entry.383904697"].value == "") {
         return false;
     }
-    if (form.elements["entry.428986930"].value == "") {
+    if (form.elements["entry.1699257137"].value == "") {
         return false;
     }
     return true;
