@@ -35,6 +35,9 @@ function validateForm(form) {
     if (form.elements["entry.274756931"].value == "") {
         return false;
     }
+    if (form.elements["entry.428986930"].value == "") {
+        return false;
+    }
     return true;
  }
 
