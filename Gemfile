@@ -33,3 +33,5 @@ gem "jekyll-seo-tag"
 gem "jekyll-redirect-from"
 
 gem "kramdown", ">= 2.3.1"
+
+gem "webrick", "~> 1.7"
