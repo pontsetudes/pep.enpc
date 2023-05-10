@@ -62,22 +62,6 @@ competences:
     description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus. Notre Junior-Entreprise excelle dans la conception de sites webs et de programmes en tout genre, allant du domaine de la Vision Artificielle au Machine Learning.
     title_en: COMPUTER AND DATA SCIENCE
     description_en: Computer science is at the heart of the training provided at Les Ponts from the first year, extended by a master's degree in mathematical and computer engineering. The school's generalist training also enables students to adopt a global approach to a computer problem, and thus to carry out your most specialised projects. Our Junior-Enterprise excels in the design of websites and programs of all kinds, ranging from Artificial Vision to Machine Learning.
-  - title: Génie Civil <br> et Mécanique
-    slug: genie-civil-mecanique
-    thumbnail: bridge-millau-thumbnail.jpg
-    img: bridge-millau.jpg
-    alt: Génie Civil et Mécanique
-    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
-    title_en: CIVIL ENGINEERING AND MECHANICS
-    description_en: With more than 250 years of experience in civil and mechanical engineering, École des Ponts ParisTech still trains engineers at the cutting edge of this field. Our Junior-Entrepreneurs will be able to guide you in your structural design or market research projects.
-  - title: Informatique et Data Science
-    slug: math-info
-    thumbnail: imi-thumbnail.jpg
-    img: imi.jpg
-    alt: Mathématiques et Informatique
-    description: L’informatique est au cœur de la formation dispensée aux Ponts dès la première année, prolongée par un master en ingénierie mathématique et informatique. La formation généraliste de l’école permet en outre aux étudiants d’adopter une approche globale face à un problème informatique, et ainsi de réaliser vos projets les plus pointus. Notre Junior-Entreprise excelle dans la conception de sites webs et de programmes en tout genre, allant du domaine de la Vision Artificielle au Machine Learning.
-    title_en: COMPUTER AND DATA SCIENCE
-    description_en: Computer science is at the heart of the training provided at Les Ponts from the first year, extended by a master's degree in mathematical and computer engineering. The school's generalist training also enables students to adopt a global approach to a computer problem, and thus to carry out your most specialised projects. Our Junior-Enterprise excels in the design of websites and programs of all kinds, ranging from Artificial Vision to Machine Learning.
   - title: Stratégie, Finance <br> et Économie
     slug: strategie-finance-economie
     thumbnail: segf-thumbnail.jpg
@@ -86,6 +70,14 @@ competences:
     description: L’École des Ponts ParisTech est également très réputée dans les domaines de la finance et de l’économie, et forme de nombreux consultants et analystes. Chaque année, plus d’un tiers des étudiants quittent l’école pour le monde de l’économie, de la finance, de la stratégie ou du conseil.
     title_en: STRATEGY, FINANCE AND ECONOMICS
     description_en: École des Ponts ParisTech is also very well known in the fields of finance and economics, and trains many consultants and analysts. Each year, more than a third of students leave the school for the world of economics, finance, strategy or consulting.
+  - title: Génie Civil <br> et Mécanique
+    slug: genie-civil-mecanique
+    thumbnail: bridge-millau-thumbnail.jpg
+    img: bridge-millau.jpg
+    alt: Génie Civil et Mécanique
+    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
+    title_en: CIVIL ENGINEERING AND MECHANICS
+    description_en: With more than 250 years of experience in civil and mechanical engineering, École des Ponts ParisTech still trains engineers at the cutting edge of this field. Our Junior-Entrepreneurs will be able to guide you in your structural design or market research projects.
   - title: Génie Industriel <br> et Marketing
     slug: genie-industriel
     thumbnail: gi-thumbnail.jpg
