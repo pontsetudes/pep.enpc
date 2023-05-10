@@ -1237,16 +1237,18 @@ body {
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url('{{ site.baseurl }}/img/competences/imi.jpg'); 
+    background-image: url('{{ site.baseurl }}/img/competences/vet.jpg');
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url('{{ site.baseurl }}/img/competences/bridge-millau.jpg');
+    background-image: url('{{ site.baseurl }}/img/competences/imi.jpg');
+  
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url('{{ site.baseurl }}/img/competences/vet.jpg');
+    background-image: url('{{ site.baseurl }}/img/competences/segf.jpg');
 }
 .fade-carousel .slides .slide-4 {
-    background-image: url('{{ site.baseurl }}/img/competences/segf.jpg');
+    
+    background-image: url('{{ site.baseurl }}/img/competences/bridge-millau.jpg');
 }
 .fade-carousel .slides .slide-5 {
     background-image: url('{{ site.baseurl }}/img/competences/gi.jpg');
