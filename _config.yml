@@ -122,10 +122,10 @@ equipe:
     title_en: Secretary General
     slug: secgen
     img: secgen.jpg
-    alt: Secrétaire Générale
+    alt: Secrétaire Général
     name: Quentin Girard
     description: Le secrétaire général est la responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, il participe au pilotage de l’association et de tous ses pôles. Il assure les tâches administratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
-    description_en: The secretary general is in charge of the associative management of the Junior-Enterprise. Member of the board, she participates in the management of the association and all its units. She takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
+    description_en: The secretary general is in charge of the associative management of the Junior-Enterprise. Member of the board, he participates in the management of the association and all its units. He takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
     mail: quentin.girard@junior-pep.fr
     in: https://www.linkedin.com/in/girard-quentin/
   - title: Trésorier
@@ -138,14 +138,14 @@ equipe:
     description_en: The Treasurer manages the financial functioning of the Junior-Enterprise. He is responsible for planning and monitoring the budget, managing the bank accounts, declaring the taxes of the Junior-Enterprise and checking the accounting of the Vice-Treasurer.
     mail: antony.feord@junior-pep.fr
     in: https://www.linkedin.com/in/antony-feord/
-  - title: Vice-Trésorière
+  - title: Vice-Trésorier
     title_en: Vice-Treasurer
     slug: vtrez
     img: vtrez.jpg
     alt: Vice-Trésorière
     name: Léo Sarda-Esteve
     description: Le Vice-Trésorier est l'adjoint du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Il s’occupe aussi de l’archivage des documents.
-    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. Her main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. She also takes care of the storage of the documents.
+    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. His main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. He also takes care of the storage of the documents.
     mail: leo.sarda-esteve@junior-pep.fr
     in: https://www.linkedin.com/in/l%C3%A9o-sarda-esteve-8788b8251/
   - title: Directeur Commercial
