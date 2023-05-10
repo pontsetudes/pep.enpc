@@ -73,7 +73,14 @@ competences:
     description: L’École des Ponts ParisTech est également très réputée dans les domaines de la finance et de l’économie, et forme de nombreux consultants et analystes. Chaque année, plus d’un tiers des étudiants quittent l’école pour le monde de l’économie, de la finance, de la stratégie ou du conseil.
     title_en: STRATEGY, FINANCE AND ECONOMICS
     description_en: École des Ponts ParisTech is also very well known in the fields of finance and economics, and trains many consultants and analysts. Each year, more than a third of students leave the school for the world of economics, finance, strategy or consulting.
-
+ - title: Génie Civil <br> et Mécanique
+    slug: genie-civil-mecanique
+    thumbnail: bridge-millau-thumbnail.jpg
+    img: bridge-millau.jpg
+    alt: Génie Civil et Mécanique
+    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
+    title_en: CIVIL ENGINEERING AND MECHANICS
+    description_en: With more than 250 years of experience in civil and mechanical engineering, École des Ponts ParisTech still trains engineers at the cutting edge of this field. Our Junior-Entrepreneurs will be able to guide you in your structural design or market research projects.
   - title: Génie Industriel <br> et Marketing
     slug: genie-industriel
     thumbnail: gi-thumbnail.jpg
