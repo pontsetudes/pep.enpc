@@ -86,14 +86,6 @@ competences:
     description: L’École des Ponts ParisTech est également très réputée dans les domaines de la finance et de l’économie, et forme de nombreux consultants et analystes. Chaque année, plus d’un tiers des étudiants quittent l’école pour le monde de l’économie, de la finance, de la stratégie ou du conseil.
     title_en: STRATEGY, FINANCE AND ECONOMICS
     description_en: École des Ponts ParisTech is also very well known in the fields of finance and economics, and trains many consultants and analysts. Each year, more than a third of students leave the school for the world of economics, finance, strategy or consulting.
- - title: Génie Civil <br> et Mécanique
-    slug: genie-civil-mecanique
-    thumbnail: bridge-millau-thumbnail.jpg
-    img: bridge-millau.jpg
-    alt: Génie Civil et Mécanique
-    description: Forte de plus de 250 ans d’expérience dans le génie civil et mécanique, l’École des Ponts ParisTech forme encore aujourd’hui des ingénieurs à la pointe de ce domaine. Nos Junior-Entrepreneurs seront à même de vous guider dans vos projets de dimensionnement de structures ou d'étude de marché.
-    title_en: CIVIL ENGINEERING AND MECHANICS
-    description_en: With more than 250 years of experience in civil and mechanical engineering, École des Ponts ParisTech still trains engineers at the cutting edge of this field. Our Junior-Entrepreneurs will be able to guide you in your structural design or market research projects.
   - title: Génie Industriel <br> et Marketing
     slug: genie-industriel
     thumbnail: gi-thumbnail.jpg
@@ -213,7 +205,7 @@ equipe:
     description: Le travail du chef de projet, c'est également d'entretenir le contact entre la Junior et les entreprises. Ils sont en permanence en relation avec des chefs d'entreprises ou de départements techniques pour comprendre leurs besoins et y apporter des solutions adaptées.
     description_en: The project manager's job is also to maintain contact between the Junior and the companies. They are in constant contact with the heads of companies or technical departments to understand their needs and provide them with appropriate solutions.
     mail: mathieu.carriere@junior-pep.fr
-    in: https://www.linkedin.com/in/mathieu-carrire-2978b9254/
+    in: https://www.linkedin.com/in/mathieu-carrière-2978b9254/
   - title: Directeur Qualité
     title_en: Quality Manager
     slug: quali
@@ -233,7 +225,7 @@ equipe:
     description: Le DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
     description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. He also assists the quality manager in the review of the study documents.
     mail: rafael.dubois@junior-pep.fr
-    in: https://www.linkedin.com/in/rafal-dubois-3a04a3254/
+    in: https://www.linkedin.com/in/rafaël-dubois-3a04a3254/
  
   
 
