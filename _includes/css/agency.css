@@ -399,7 +399,7 @@ header .intro-text .intro-heading {
     background: linear-gradient(
         rgba(0, 0, 0, 0.3), 
         rgba(0, 0, 0, 0.3)
-    ),url('{{ site.baseurl }}/img/headers/equipe.jpeg');
+    ),url('{{ site.baseurl }}/img/headers/equipe_.jpeg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
