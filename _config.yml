@@ -198,6 +198,16 @@ equipe:
     description_en: The project manager's job is also to maintain contact between the Junior and the companies. They are in constant contact with the heads of companies or technical departments to understand their needs and provide them with appropriate solutions.
     mail: mathieu.carriere@junior-pep.fr
     in: https://www.linkedin.com/in/mathieu-carrière-2978b9254/
+  - title: Chef de Projet
+    title_en: Project Manager
+    slug: chef4
+    img: chef4.jpg
+    alt: Chef de Projet
+    name: Dhia Garbaya
+    description: Les chefs de projet transmettent les  questions des étudiants, informent sur l'avancée de la mission, proposent et organisent des réunions en présence des deux partis pour une première rencontre ou encore pour une présentation des livrables.
+    description_en: The project managers transmit the students' questions, inform on the progress of the mission, propose and organise meetings with both parties for a first meeting or for a presentation of the deliverables.
+    mail: dhia.garbaya@junior-pep.fr
+    in: https://www.linkedin.com/in/dhia-garbaya/
   - title: Directeur Qualité
     title_en: Quality Manager
     slug: quali
