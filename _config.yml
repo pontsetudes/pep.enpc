@@ -227,7 +227,18 @@ equipe:
     description: Le DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
     description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. He also assists the quality manager in the review of the study documents.
     mail: rafael.dubois@junior-pep.fr
-    in: https://www.linkedin.com/in/rafaël-dubois-3a04a3254/
+    in: https://www.linkedin.com/in/rafaël-dubois-
+  - title: Directeur communication
+    title_en: Director of Communications
+    slug: dcomu
+    img: dcomu.jpg
+    alt: Directeur des Systèmes d'Information
+    name: Louis Maximin 
+    description: Le directeur communication est en charge de gérer l'image de Ponts Etudes Projets. Il assure la réalisation des communications sur les réseaux sociaux ainsi que les communications internes à l'Ecole des Ponts. 
+    description_en: The Director of Communications is responsible for managing the image of Ponts Etudes Projets. He oversees the implementation of communications on social media as well as internal communications within the École des Ponts.
+    mail: louis.maximin@junior-pep.fr
+    
+ 
  
   
 
