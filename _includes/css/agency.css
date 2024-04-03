@@ -436,6 +436,20 @@ header .intro-text .intro-heading {
     -o-background-size: cover;
 }
 
+.faq-header {
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+    ),url('{{ site.baseurl }}/img/headers/faq.jpg');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .presentation-header {
     background: linear-gradient(
         rgba(0, 0, 0, 0.3), 
