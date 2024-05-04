@@ -233,7 +233,7 @@ equipe:
     img: dsi.jpg
     alt: Directrice des Systèmes d'Information
     name: Téodora Gospodaru
-    description: La DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Elle assiste aussi le responsable qualité dans la relecture des documents études.
+    description: La DSI s'occupe de la maintenance du site internet, de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Elle assiste aussi le responsable qualité dans la relecture des documents études.
     description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. She also assists the quality manager in the review of the study documents.
     mail: teodora.gospodaru@junior-pep.fr
     in: https://www.linkedin.com/in/t%C3%A9odora-gospodaru-7b1523304/
@@ -242,7 +242,7 @@ equipe:
     slug: dcomu
     img: dcomu.jpg
     alt: Directrice communication
-    name: Hind Tanouti 
+    name: Hind Tanouti
     description: La directrice communication est en charge de gérer l'image de Ponts Etudes Projets. Elle assure la réalisation des communications sur les réseaux sociaux ainsi que les communications internes à l'École des Ponts. 
     description_en: The Director of Communications is responsible for managing the image of Ponts Études Projets. She oversees the implementation of communications on social media as well as internal communications within the École des Ponts.
     mail: hind.tanouti@junior-pep.fr
