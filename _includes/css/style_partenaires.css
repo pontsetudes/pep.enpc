@@ -1,11 +1,7 @@
 .intro-partenaire {
     position: relative;
-    display: flex;
     align-items: center;
     justify-content: center;
-    padding: 3%;
-    margin: 40px auto;
-    max-width: 90%;
     z-index: 0;
 }
 
