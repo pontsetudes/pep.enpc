@@ -2,4 +2,5 @@
 {% include css/agency.css %}
 {% include css/infinite-slider.css %}
 {% include css/style_cookies.css %}
+{% include css/style_partenaires.css %}
 {{ content }}
