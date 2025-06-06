@@ -104,8 +104,8 @@ equipe:
     img: prez.jpg
     alt: Président
     name: Victor DROISSART 
-    description: Le président est le responsable légal de la Junior-Entreprise. À l’aide du bureau, il pilote l’association et tous ses pôles. Sa mission principale est donc de veiller au bon fonctionnement de chacun de ces pôles et plus globalement de la Junior-Entreprise.
-    description_en: The president is the legal responsible of the Junior-Enterprise. With the help of the office, he manages the association and all its units. His main mission is to ensure the good functioning of each of these units and more globally of the Junior-Enterprise.
+    description: Le Président est le responsable légal de la Junior-Entreprise. À l’aide du bureau, il pilote l’association et tous ses pôles. Sa mission principale est donc de veiller au bon fonctionnement de chacun de ces pôles et plus globalement de la Junior-Entreprise.
+    description_en: The President is the legal responsible of the Junior-Enterprise. With the help of the office, he manages the association and all its units. His main mission is to ensure the good functioning of each of these units and more globally of the Junior-Enterprise.
     mail: victor.droissart@junior-pep.fr
     in: https://www.linkedin.com/in/victor-droissart/
   - title: Vice-Président
@@ -114,7 +114,7 @@ equipe:
     img: vprez.jpg
     alt: Vice-Présidente
     name: Ferdinand FLEURY-DAVID
-    description: Le vice-président travaille main dans la main avec le président. Il élabore la stratégie annuelle et gère les partenariats. Il doit aussi s'intéresser aux différents indicateurs de performance développés par les membres du pôle qualité et assister les autres pôles de la Junior-Entreprise.
+    description: Le Vice-Président travaille main dans la main avec le président. Il élabore la stratégie annuelle et gère les partenariats. Il doit aussi s'intéresser aux différents indicateurs de performance développés par les membres du pôle qualité et assister les autres pôles de la Junior-Entreprise.
     description_en: The Vice-President works hand in hand with the President. He develops the annual strategy and manages the partnerships. He also has to take care of the different performance indicators developed by the quality division and assist the other units of the Junior-Enterprise.
     mail: ferdinand.fleury-david@junior-pep.fr
     in: https://www.linkedin.com/in/ferdinand-fleury-david/
@@ -124,8 +124,8 @@ equipe:
     img: secgen.jpg
     alt: Secrétaire Générale
     name: Héloïse FLANDIN
-    description: La secrétaire générala est la responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, elle participe au pilotage de l’association et de tous ses pôles. Elle assure les tâches administratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
-    description_en: The general secretary is in charge of the associative management of the Junior-Enterprise. Member of the board, she participates in the management of the association and all its units. She takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
+    description: La Secrétaire Générala est la responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, elle participe au pilotage de l’association et de tous ses pôles. Elle assure les tâches administratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
+    description_en: The General Secretary is in charge of the associative management of the Junior-Enterprise. Member of the board, she participates in the management of the association and all its units. She takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
     mail: heloise.flandin@junior-pep.fr
     in: https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-flandin-2337532ba/
   - title: Trésorier
@@ -149,34 +149,34 @@ equipe:
     mail: baptiste.douce@junior-pep.fr
     in: https://www.linkedin.com/in/baptiste-douce/
   - title: Directeur Commercial
-    title_en: Commercial manager
+    title_en: Commercial Director
     slug: dcomer
     img: dcomer.jpg
     alt: Directeur Commercial
     name: Amaury COLIN 
     mail: amaury.colin@junior-pep.fr
-    description: Le directeur commercial définit la stratégie commerciale de la Junior en précisant son offre selon les enseignements dispensés dans l'École, et en identifiant les différents acteurs pouvant faire appel à cette offre. Il organise ensuite et fait part à la prospection avec l’ensemble du pôle.
-    description_en: The commercial manager defines the Junior's commercial strategy by specifying its offer based on the curriculum provided in the School and by identifying the different actors that could appeal to this offer. He also organises and carries out the prospection with the whole department.
+    description: Le Directeur Commercial définit la stratégie commerciale de la Junior en précisant son offre selon les enseignements dispensés dans l'École, et en identifiant les différents acteurs pouvant faire appel à cette offre. 
+    description_en: The Commercial Director defines the Junior's commercial strategy by specifying its offer based on the curriculum provided in the School and by identifying the different actors that could appeal to this offer.
     in: https://www.linkedin.com/in/amaury-colin-962a83333/
   - title: Responsable Commercial
-    title_en: Commercial manager
+    title_en: Commercial Manager
     slug: rcomer
     img: rcomer.jpg
     alt: Responsable Commercial
     name: Erwann CARN 
     mail: erwann.carn@junior-pep.fr
-    description: Le directeur commercial définit la stratégie commerciale de la Junior en précisant son offre selon les enseignements dispensés dans l'École, et en identifiant les différents acteurs pouvant faire appel à cette offre. Il organise ensuite et fait part à la prospection avec l’ensemble du pôle.
-    description_en: The commercial manager defines the Junior's commercial strategy by specifying its offer based on the curriculum provided in the School and by identifying the different actors that could appeal to this offer. He also organises and carries out the prospection with the whole department.
+    description: Le Responsable Commercial assiste le directeur commercial. Il organise également la prospection et y participe avec l’ensemble des pôles.
+    description_en: The Commercial Manager assists the commercial director. He also organizes prospecting activities and takes part in them with all the departments.
     in: https://www.linkedin.com/in/erwann-carn/
-  - title: Directeur d'études
-    title_en: Head of studies managers
+  - title: Directeur d'Etudes
+    title_en: Head of Project Managers
     slug: detudes
     img: detudes.jpg
     alt: Directrice d'études
     name: Clément DESBOIS 
     mail: clement.desbois@junior-pep.fr
-    description: La directrice d'études est à la tête du pôle étude et s’occupe d’organiser la prospection commerciale ainsi que d’encadrer les relations client-étudiant. Elle a une vue d’ensemble sur les missions en cours et s’assure de leur bon déroulé tout comme de la bonne coordination des membres de son équipe.
-    description_en: The head of studies managers heads the business unit and is responsible for organising business development and managing student-client relations. She has an overview of the missions in progress and ensures that they run smoothly and that the members of his team are well coordinated.
+    description: Le Directeur d'Etudes est à la tête du pôle étude et s’occupe d’organiser la prospection commerciale ainsi que d’encadrer les relations client-étudiant. Il a une vue d’ensemble sur les missions en cours et s’assure de leur bon déroulé tout comme de la bonne coordination des membres de son équipe.
+    description_en: The Head of Project Managers heads the business unit and is responsible for organising business development and managing student-client relations. He has an overview of the missions in progress and ensures that they run smoothly and that the members of his team are well coordinated.
     in: https://www.linkedin.com/in/cl%C3%A9ment-desbois-6594aa214/
   - title: Cheffe de Projet
     title_en: Project Manager
@@ -184,7 +184,7 @@ equipe:
     img: chef1.jpg
     alt: Chef de Projet
     name: Emma FLITI 
-    description: Tout au long d'une étude, les chefs de projets, travaillant en binôme, sont les intermédiaires de référence entre le Client et le(s) étudiant(s) réalisateur(s) de l'étude. Ils suivent les étudiants tout au long de l'étude, du recrutement jusqu'à la clôture.
+    description: Tout au long d'une étude, les Chefs de Projets, travaillant en binôme, sont les intermédiaires de référence entre le Client et le(s) étudiant(s) réalisateur(s) de l'étude. Ils suivent les étudiants tout au long de l'étude, du recrutement jusqu'à la clôture.
     description_en: Throughout a study, the project managers, working in pairs, are the intermediaries of reference between the Client and the student(s) carrying out the study. They follow the students throughout the study, from recruitment to completion.
     mail: emma.fliti@junior-pep.fr
     in: https://www.linkedin.com/in/emma-fliti-14b309209/
@@ -208,24 +208,24 @@ equipe:
     description_en: The project manager's job is also to maintain contact between the Junior and the companies. They are in constant contact with the heads of companies or technical departments to understand their needs and provide them with appropriate solutions.
     mail: eliott.delhaye@junior-pep.fr
     in: https://www.linkedin.com/in/eliott-delhaye-a46236241/
-  - title: Cheffe de Projet
+  - title: Chef de Projet
     title_en: Project Manager
     slug: chef4
     img: chef4.jpg
     alt: Cheffe de Projet
-    name: Meryem Azguenfou 
+    name: Matthieu HAZARD
     description: Les chefs de projet transmettent les  questions des étudiants, informent sur l'avancée de la mission, proposent et organisent des réunions en présence des deux partis pour une première rencontre ou encore pour une présentation des livrables.
     description_en: The project managers transmit the students' questions, inform on the progress of the mission, propose and organise meetings with both parties for a first meeting or for a presentation of the deliverables.
-    mail: meryem.azguenfou@junior-pep.fr
-    in: https://www.linkedin.com/in/azguenfou-meryem-621749297/
+    mail: matthieu.hazard@junior-pep.fr
+    in: https://www.linkedin.com/in/matthieu-hazard-625ab222a/
   - title: Directeur RSE / Chef de Projet
     title_en: CSR Director 
     slug: rse
     img: rse.jpg
     alt: Directrice RSE
     name: Lucas LE GALL
-    description: La directrice RSE est garante du respect des enjeux RSE au sein de la Junior-Entreprise. Elle s'assure notamment du respect de la charte RSE lors des différents évènements auxquels Ponts Études Projets participe ou organise. Elle suit également les études aux enjeux RSE.   
-    description_en: The ESG director makes sure that the Junior-Entreprise complies with the ESG charter, especially when it organizes or takes part in events. She also oversees missions that are related to ESG issues. 
+    description: Le Directeur RSE est garant du respect des enjeux RSE au sein de la Junior-Entreprise. Il s'assure notamment du respect de la charte RSE lors des différents évènements auxquels Ponts Études Projets participe ou organise. Il suit également les études aux enjeux RSE.   
+    description_en: The ESG Director makes sure that the Junior-Entreprise complies with the ESG charter, especially when it organizes or takes part in events. He also oversees missions that are related to ESG issues. 
     mail: lucas.le-gall@junior-pep.fr
     in : https://www.linkedin.com/in/lucas-le-gall-0a627215a/
   - title: Directrice Qualité
@@ -234,8 +234,8 @@ equipe:
     img: quali.jpg
     alt: Directeur Qualité
     name: Chloé SPITTAEL
-    description: Le Directeur Qualité s’assure du bon fonctionnement des services de la Junior Entreprise. En relisant chaque document, il s’assure de leur conformité au cadre légal. Il se charge aussi de gérer les différents indicateurs de performance qui aideront la Junior Entreprise à améliorer ses services.
-    description_en: The Quality Manager ensures that the services of the Junior Entreprise are working properly. By re-reading each document, he makes sure that they comply with the legal framework. He is also in charge of managing the different performance indicators that will help the Junior Entreprise to improve its services.
+    description: La Directrice Qualité s’assure du bon fonctionnement des services de la Junior Entreprise. En relisant chaque document, elle s’assure de leur conformité au cadre légal. Elle se charge aussi de gérer les différents indicateurs de performance qui aideront la Junior Entreprise à améliorer ses services.
+    description_en: The Quality Manager ensures that the services of the Junior Entreprise are working properly. By re-reading each document, she makes sure that they comply with the legal framework. She is also in charge of managing the different performance indicators that will help the Junior Entreprise to improve its services.
     mail: chloe.spittael@junior-pep.fr
     in: 
   - title: Directeur des Systèmes <br> d'Information
@@ -244,18 +244,18 @@ equipe:
     img: dsi.jpg
     alt: Directrice des Systèmes d'Information
     name: Ayush ADHIKARI
-    description: La DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Elle assiste aussi le responsable qualité dans la relecture des documents études.
-    description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. She also assists the quality manager in the review of the study documents.
+    description: La DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
+    description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. He also assists the quality manager in the review of the study documents.
     mail: ayush.adhikari@junior-pep.fr
     in: https://www.linkedin.com/in/ayush-adhikari-179423338/
-  - title: Directeur communication
+  - title: Directeur Communication
     title_en: Director of Communications
     slug: dcomu
     img: dcomu.jpg
     alt: Directrice communication
     name: Antoine CHEDID
-    description: La directrice communication est en charge de gérer l'image de Ponts Etudes Projets. Elle assure la réalisation des communications sur les réseaux sociaux ainsi que les communications internes à l'École des Ponts. 
-    description_en: The Director of Communications is responsible for managing the image of Ponts Études Projets. She oversees the implementation of communications on social media as well as internal communications within the École des Ponts.
+    description: Le Directeur Communication est en charge de gérer l'image de Ponts Etudes Projets. Il assure la réalisation des communications sur les réseaux sociaux ainsi que les communications internes à l'École des Ponts. 
+    description_en: The Director of Communications is responsible for managing the image of Ponts Études Projets. He oversees the implementation of communications on social media as well as internal communications within the École des Ponts.
     mail: antoine.chedid@junior-pep.fr
     in: https://www.linkedin.com/in/antoine-chedid-960251333/
 
