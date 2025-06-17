@@ -191,7 +191,7 @@ equipe:
   - title: Chef de Projet
     title_en: Project Manager
     slug: chef2
-    img: chef2.jpg
+    img: chef2.png
     alt: Cheffe de Projet
     name: Antoine CHOSSON 
     description: Avant le début d’une étude, il est du ressort des chefs de projet de trouver les étudiants les plus qualifiés et répondant aux mieux aux exigences du Client. Les CVs et lettres de motivation des étudiants ayant répondu à l'annonce de l'étude permettent de ne garder que les meilleurs éléments.
@@ -219,7 +219,7 @@ equipe:
     mail: matthieu.hazard@junior-pep.fr
     in: https://www.linkedin.com/in/matthieu-hazard-625ab222a/
   - title: Directeur RSE / Chef de Projet
-    title_en: CSR Director 
+    title_en: CSR Director / Project Manager
     slug: rse
     img: rse.jpg
     alt: Directrice RSE
