@@ -124,7 +124,7 @@ equipe:
     img: secgen.jpg
     alt: Secrétaire Générale
     name: Héloïse FLANDIN
-    description: La Secrétaire Générala est la responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, elle participe au pilotage de l’association et de tous ses pôles. Elle assure les tâches administratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
+    description: La Secrétaire Générale est la responsable de la gestion associative de la Junior-Entreprise. Membre du bureau, elle participe au pilotage de l’association et de tous ses pôles. Elle assure les tâches administratives, est responsable de la tenue des registres et veille au bon fonctionnement de l’équipe. 
     description_en: The General Secretary is in charge of the associative management of the Junior-Enterprise. Member of the board, she participates in the management of the association and all its units. She takes care of administrative tasks, is responsible for keeping the registers and ensures the good functioning of the team.
     mail: heloise.flandin@junior-pep.fr
     in: https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-flandin-2337532ba/
@@ -144,8 +144,8 @@ equipe:
     img: vtrez.jpg
     alt: Vice-Trésorière
     name: Baptiste DOUCE
-    description: La Vice-Trésorière est l'adjointe du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Elle s’occupe aussi de l’archivage des documents.
-    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. Her main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. She also takes care of the storage of the documents.
+    description: Le Vice-Trésorier est l'adjoint du Trésorier de la Junior-Entreprise. Sa mission principale est de gérer la comptabilité en lien avec l’expert-comptable, de vérifier les opérations du Trésorier et de l’assister dans l’élaboration du budget. Il s’occupe aussi de l’archivage des documents.
+    description_en: The Vice-Treasurer is the assistant of the Junior-Enterprise Treasurer. His main mission is to manage the accounting in connection with the chartered accountant, to check the operations of the Treasurer and to assist him in the elaboration of the budget. He also takes care of the storage of the documents.
     mail: baptiste.douce@junior-pep.fr
     in: https://www.linkedin.com/in/baptiste-douce/
   - title: Directeur Commercial
@@ -194,7 +194,7 @@ equipe:
     img: chef2.png
     alt: Cheffe de Projet
     name: Antoine CHOSSON 
-    description: Avant le début d’une étude, il est du ressort des chefs de projet de trouver les étudiants les plus qualifiés et répondant aux mieux aux exigences du Client. Les CVs et lettres de motivation des étudiants ayant répondu à l'annonce de l'étude permettent de ne garder que les meilleurs éléments.
+    description: Avant le début d’une étude, il est du ressort des chefs de projet de trouver les étudiants les plus qualifiés et répondant au mieux aux exigences du Client. Les CVs et lettres de motivation des étudiants ayant répondu à l'annonce de l'étude permettent de ne garder que les meilleurs éléments.
     description_en: Before the start of a study, it is the responsibility of the project managers to find the most qualified students who best meet the Client's requirements. The CVs and cover letters of the students who responded to the study advertisement are used to select only the best candidates.
     mail: antoine.chosson@junior-pep.fr
     in: https://www.linkedin.com/in/antoine-chosson-87089a249/
@@ -237,14 +237,14 @@ equipe:
     description: La Directrice Qualité s’assure du bon fonctionnement des services de la Junior Entreprise. En relisant chaque document, elle s’assure de leur conformité au cadre légal. Elle se charge aussi de gérer les différents indicateurs de performance qui aideront la Junior Entreprise à améliorer ses services.
     description_en: The Quality Manager ensures that the services of the Junior Entreprise are working properly. By re-reading each document, she makes sure that they comply with the legal framework. She is also in charge of managing the different performance indicators that will help the Junior Entreprise to improve its services.
     mail: chloe.spittael@junior-pep.fr
-    in: 
+    in: https://www.linkedin.com/company/ponts-etudes-projets/
   - title: Directeur des Systèmes <br> d'Information
     title_en: Director of Information Systems
     slug: dsi
     img: dsi.jpg
     alt: Directrice des Systèmes d'Information
     name: Ayush ADHIKARI
-    description: La DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
+    description: Le DSI s'occupe de la maintenance du site internet et de l'ensemble des moyens informatiques utilisés par les membres de la Junior et les intervenants. Il assiste aussi le responsable qualité dans la relecture des documents études.
     description_en: The IT Director is in charge of the maintenance of the website and all the IT means used by the members of the Junior Entreprise and the stakeholders. He also assists the quality manager in the review of the study documents.
     mail: ayush.adhikari@junior-pep.fr
     in: https://www.linkedin.com/in/ayush-adhikari-179423338/
