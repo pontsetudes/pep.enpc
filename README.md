@@ -27,6 +27,7 @@ gem install jekyll bundler
 git clone https://github.com/pontsetudes/pep.enpc.git
 cd pep.enpc/
 bundle install
+bundle update liquid jekyll
 ```
 
 Then start the local server running :
